@@ -1,5 +1,5 @@
 {
-  "version": 11,
+  "version": 12,
   "updatedAt": "2026-11-03",
   "categories": [
     {
@@ -2160,6 +2160,251 @@
               "caption": "Pantai Teleng Ria, dekat hotel kota",
               "credit": "Foto: Stella Nostra G. A · CC BY-SA 4.0",
               "source": "https://commons.wikimedia.org/wiki/File:Pantai_Teleng_Ria,_Pacitan,_Jawa_Timur.jpg"
+            }
+          ]
+        }
+      ],
+      "updatedAt": "2026-11-03"
+    },
+    {
+      "id": "travel",
+      "title": "Travel",
+      "subtitle": "Bus, travel & rental",
+      "emoji": "🚌",
+      "color": [
+        "#0f766e",
+        "#134e4a"
+      ],
+      "desc": "Terminal bus, agen travel antar kota, serta rental motor dan mobil di Pacitan. Hubungi langsung untuk jadwal dan tarif.",
+      "groups": [
+        {
+          "title": "🚌 Terminal Bus",
+          "items": [
+            {
+              "name": "Terminal Bus Pacitan",
+              "note": "Terminal bus utama",
+              "address": "Purwoharjo, Baleharjo, Kec. Pacitan, Kabupaten Pacitan, Jawa Timur 63511",
+              "rating": 4.5,
+              "reviews": 645,
+              "lat": -8.2009399,
+              "lng": 111.1022167,
+              "placeId": "ChIJB0S9w75heS4RUHDKZFYN6bM",
+              "images": [
+                {
+                  "src": "images/svc-travel-terminal-1.jpg",
+                  "credit": "Foto: Mujionomaruf · CC BY-SA 4.0",
+                  "source": "https://commons.wikimedia.org/wiki/File:Gerbang_Masuk_Terminal_Pacitan.jpg"
+                },
+                {
+                  "src": "images/svc-travel-terminal-2.jpg",
+                  "credit": "Foto: Mujionomaruf · CC BY-SA 4.0",
+                  "source": "https://commons.wikimedia.org/wiki/File:Deret_Loket_Penjualan_Tiket_Bus_Malam_Terminal_Pacitan.jpg"
+                },
+                {
+                  "src": "images/svc-travel-terminal-3.jpg",
+                  "credit": "Foto: Mujionomaruf · CC BY-SA 4.0",
+                  "source": "https://commons.wikimedia.org/wiki/File:Shelter_Bus_Antarkota_Sisi_Barat_Terminal_Pacitan.jpg"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "🚐 Travel & Agen Tiket Bus",
+          "images": [
+            {
+              "src": "images/svc-travel-1.jpg",
+              "credit": "Ilustrasi: Midori · CC BY 3.0",
+              "source": "https://commons.wikimedia.org/wiki/File:Central_Java_shuttle_minivan_(travel)_Semarang_Jepara.JPG",
+              "caption": "Ilustrasi: minivan travel (Jawa Tengah)"
+            }
+          ],
+          "items": [
+            {
+              "name": "Enggal Travel Pacitan",
+              "address": "Jl. Gatot Subroto No.34, RT.03/RW.02, Purwoharjo, Baleharjo, Kec. Pacitan, Kabupaten Pacitan, Jawa Timur 63511",
+              "phone": "+62 877-5806-8465",
+              "rating": 3.5,
+              "reviews": 312,
+              "lat": -8.1980106,
+              "lng": 111.10407649999999,
+              "placeId": "ChIJoa-U4dpheS4RSylZTEOjQkU"
+            },
+            {
+              "name": "PT. Bintang Terang tour & travel",
+              "address": "Jalan Kom. Yos Sudarso RT. 1 RW. 7 Pojok, Sundeng, Sidoharjo, Kec. Pacitan, Kabupaten Pacitan, Jawa Timur 63514",
+              "phone": "+62 812-2971-1951",
+              "rating": 3.8,
+              "reviews": 293,
+              "lat": -8.1962146,
+              "lng": 111.08293929999999,
+              "placeId": "ChIJ87vbOW3fey4Rk0gqGi8j7bs"
+            },
+            {
+              "name": "PO. Anekaindah",
+              "address": "Jl. Panglima Sudirman No.60, Pager, gayamdompoPacitan, Kec. Pacitan, Kabupaten Pacitan, Jawa Timur 57513",
+              "phone": "+62 357 881091",
+              "rating": 3.8,
+              "reviews": 209,
+              "lat": -8.1969108,
+              "lng": 111.1164589,
+              "placeId": "ChIJZbyPk8ZheS4R01HZKEnkXOU"
+            },
+            {
+              "name": "GL Malta Travel",
+              "note": "Pacitan – Malang – Surabaya – Kediri",
+              "address": "Ruko Bapangan, Jl. Kom. Yos Sudarso No.06, Caruban, Sidoharjo, Kec. Pacitan, Kabupaten Pacitan, Jawa Timur 63514",
+              "phone": "+62 818-0344-4854",
+              "rating": 4.2,
+              "reviews": 32,
+              "lat": -8.195249,
+              "lng": 111.09437829999999,
+              "placeId": "ChIJ14UgTt9heS4RXOOt6ltdLNw"
+            },
+            {
+              "name": "PW Tran's Travel",
+              "note": "Pacitan – Surabaya",
+              "address": "Jl. Tentara Pelajar No.137, Gemulung, Tanjungsari, Kec. Pacitan, Kabupaten Pacitan, Jawa Timur 63518",
+              "phone": "+62 857-3000-8238",
+              "rating": 4.1,
+              "reviews": 18,
+              "lat": -8.1896919,
+              "lng": 111.1139336,
+              "placeId": "ChIJFdklHttheS4R_uzZypAGSGM"
+            },
+            {
+              "name": "L.A. Jaya Manah Kinclong",
+              "note": "Pacitan – Madiun PP",
+              "address": "Jl. Ponorogo - Pacitan No.45, Bulu, Nanggungan, Kec. Pacitan, Kabupaten Pacitan, Jawa Timur 63518",
+              "phone": "+62 813-3622-0396",
+              "rating": 4.7,
+              "reviews": 20,
+              "lat": -8.183831699999999,
+              "lng": 111.11653179999999,
+              "placeId": "ChIJ6flKPQ1heS4RGN1uAuG_yV0"
+            },
+            {
+              "name": "Trans Pacitan",
+              "address": "Jl. Letjen R. Suprapto No.77, Tuban, Sidoharjo, Kec. Pacitan, Kabupaten Pacitan, Jawa Timur 63514",
+              "phone": "+62 821-4452-2098",
+              "rating": 4.6,
+              "reviews": 13,
+              "lat": -8.2017878,
+              "lng": 111.0930257,
+              "placeId": "ChIJdfg5LCrfey4RRK0bDagzFAA"
+            },
+            {
+              "name": "PO. Rhema Abadi Pacitan",
+              "note": "Agen tiket bus",
+              "address": "Bowongan, Arjowinangun, Kec. Pacitan, Kabupaten Pacitan, Jawa Timur 63516",
+              "phone": "+62 357 885285",
+              "rating": 4.5,
+              "reviews": 17,
+              "lat": -8.1987535,
+              "lng": 111.11854459999999,
+              "placeId": "ChIJtb1mmW5heS4RarNas2AwNuA"
+            },
+            {
+              "name": "Agen bus AGRA MAS Donorojo",
+              "note": "Dekat Pantai Klayar (Donorojo)",
+              "address": "Jl. Pacitan Donorojo No.45, Druju, Donorojo, Kec. Donorojo, Kabupaten Pacitan, Jawa Timur 63554",
+              "phone": "+62 852-3507-0152",
+              "rating": 4.5,
+              "reviews": 42,
+              "lat": -8.0928685,
+              "lng": 110.9879821,
+              "placeId": "ChIJ0zXuGKjQey4RmFzJhjCe0Os"
+            }
+          ]
+        },
+        {
+          "title": "🏍️ Rental Motor",
+          "items": [
+            {
+              "name": "Kraton Mas Rental Motor",
+              "address": "Jl. Letjend MT. Haryono No.57, Barean, Sidoharjo, Kec. Pacitan, Kabupaten Pacitan, Jawa Timur 63514",
+              "phone": "+62 851-7892-3775",
+              "rating": 5,
+              "reviews": 114,
+              "lat": -8.2006961,
+              "lng": 111.0936438,
+              "placeId": "ChIJi4sIUQDfey4Rwyj4jeKrTqU"
+            },
+            {
+              "name": "Nusantara Ubed Rental",
+              "note": "Di Watukarung",
+              "address": "Kenol, Watukarung, Kec. Pringkuku, Kabupaten Pacitan, Jawa Timur 63552",
+              "phone": "+62 852-3266-0375",
+              "rating": 5,
+              "reviews": 158,
+              "lat": -8.2261958,
+              "lng": 110.9793002,
+              "placeId": "ChIJ8WxEMSbdey4RXwvt9-wkgNE"
+            },
+            {
+              "name": "Bilqis Rental Motor & Penginapan",
+              "address": "Ngampel, Ploso, Kec. Pacitan, Kabupaten Pacitan, Jawa Timur 63515",
+              "phone": "+62 877-5803-1334",
+              "rating": 4.6,
+              "reviews": 51,
+              "lat": -8.2073435,
+              "lng": 111.0950678,
+              "placeId": "ChIJ6-zb6tVheS4R4GNboB304fE"
+            },
+            {
+              "name": "Rental Motor Pacitan",
+              "address": "Kradenan, Bangunsari, Kec. Pacitan, Kabupaten Pacitan, Jawa Timur 63518",
+              "phone": "+62 813-7105-0333",
+              "rating": 4.5,
+              "reviews": 34,
+              "lat": -8.1936643,
+              "lng": 111.09335589999999,
+              "placeId": "ChIJn_mf2I5heS4Rra28ICBBEeA"
+            }
+          ]
+        },
+        {
+          "title": "🚗 Rental Mobil",
+          "items": [
+            {
+              "name": "Rental Pacitan Deni Marsya",
+              "address": "Jl. Ir. H. Djuanda No.01, Ngampel, Ploso, Kec. Pacitan, Kabupaten Pacitan, Jawa Timur 63515",
+              "phone": "+62 877-5813-3383",
+              "rating": 5,
+              "reviews": 70,
+              "lat": -8.204881,
+              "lng": 111.0967859,
+              "placeId": "ChIJo64bXABheS4RH3AsHcE_Deo"
+            },
+            {
+              "name": "AHSAN Rent Car",
+              "address": "Jl. Wilis, Krajan, Mangunharjo, Kec. Arjosari, Kabupaten Pacitan, Jawa Timur 63581",
+              "phone": "+62 853-3512-4124",
+              "rating": 5,
+              "reviews": 18,
+              "lat": -8.0937126,
+              "lng": 111.20762739999999,
+              "placeId": "ChIJaZzOymhleS4R7GksPhgDSMg"
+            },
+            {
+              "name": "Rental Mobil ALFAIZ",
+              "address": "2, RW.2, Suruhan, Sirnoboyo, Kec. Pacitan, Kabupaten Pacitan, Jawa Timur 63515",
+              "phone": "+62 818-0344-4586",
+              "rating": 5,
+              "reviews": 11,
+              "lat": -8.2062476,
+              "lng": 111.1156778,
+              "placeId": "ChIJzTGlg0JheS4R5Ubsf8yNFdU"
+            },
+            {
+              "name": "Kumala Rentcar & Agent Travel",
+              "address": "Jl. Raya Arjosari - Nawangan No.45, Krajan Kulon, Jatimalang, Kec. Arjosari, Kabupaten Pacitan, Jawa Timur 63518",
+              "phone": "+62 896-3578-4841",
+              "rating": 4.7,
+              "reviews": 13,
+              "lat": -8.1129675,
+              "lng": 111.1497421,
+              "placeId": "ChIJa8JSXL5heS4Raadvzlw5yUw"
             }
           ]
         }
