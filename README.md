@@ -26,3 +26,11 @@ Diisi otomatis oleh GitHub Actions ([workflow](.github/workflows/reviews.yml)) t
 dan kata kunci `reviewQuery` di `master.json`. Butuh secret repo `SERPAPI_KEY`
 (Settings → Secrets and variables → Actions). Jalankan manual: tab **Actions → Perbarui review Google Maps → Run workflow**.
 Jika hasil pencarian salah tempat, isi `reviewDataId` pada tempat itu di `master.json`.
+
+## images/
+
+Foto tempat (JPEG, lebar maks. 1200 px). Alamat di `master.json` ditulis relatif, mis. `images/1-1.jpg`; aplikasi menambahkan
+alamat repo ini di depannya. Tiap foto punya `credit` dan `source` yang ditampilkan di halaman detail.
+Foto saat ini berasal dari Wikimedia Commons (CC BY-SA / CC BY / domain publik); rinciannya ada di [images/CREDITS.md](images/CREDITS.md).
+Tempat tanpa foto otomatis memakai latar gradasi. Jika menambah foto sendiri, ukurannya dikecilkan dulu (±200–300 KB) dan
+isi `credit` (mis. `Foto: nama Anda`).
