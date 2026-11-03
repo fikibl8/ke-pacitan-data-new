@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 2,
   "updatedAt": "2026-11-03",
   "categories": [
     {
@@ -13,6 +13,10 @@
     {
       "id": "kuliner",
       "label": "🍜 Kuliner"
+    },
+    {
+      "id": "oleholeh",
+      "label": "🛍️ Oleh-oleh"
     },
     {
       "id": "pitstop",
@@ -35,7 +39,8 @@
         "#2c7fb8",
         "#1d4e7a",
         "#0b1f33"
-      ]
+      ],
+      "placeId": "1"
     },
     {
       "id": "2",
@@ -48,7 +53,8 @@
         "#3b1f7a",
         "#1c0f3d",
         "#050208"
-      ]
+      ],
+      "placeId": "2"
     },
     {
       "id": "3",
@@ -61,13 +67,13 @@
         "#c2742a",
         "#7a3d12",
         "#1f0e04"
-      ]
+      ],
+      "tab": "jls"
     }
   ],
   "places": [
     {
       "id": "1",
-      "youtubeId": "wwTrVGQiync",
       "name": "Pantai Klayar",
       "short": "Seruling Samudra",
       "category": "wisata",
@@ -124,11 +130,11 @@
           "sub": "Spot Foto"
         }
       ],
-      "reviewQuery": "Pantai Klayar Donorojo Pacitan"
+      "reviewQuery": "Pantai Klayar Donorojo Pacitan",
+      "tiktokId": "7493704679348636944"
     },
     {
       "id": "2",
-      "youtubeId": "K4JXtKtFVXM",
       "name": "Gua Gong Pacitan",
       "short": "Gua Terindah Asia",
       "category": "wisata",
@@ -185,11 +191,11 @@
           "sub": "Jalur Wisata"
         }
       ],
-      "reviewQuery": "Goa Gong Punung Pacitan"
+      "reviewQuery": "Goa Gong Punung Pacitan",
+      "tiktokId": "7222947709769059610"
     },
     {
       "id": "3",
-      "youtubeId": "N1nKUGkyHwU",
       "name": "Pantai Watukarung",
       "short": "Camping & Surfing",
       "category": "camping",
@@ -245,11 +251,11 @@
           "sub": "Surfing"
         }
       ],
-      "reviewQuery": "Pantai Watukarung Pringkuku Pacitan"
+      "reviewQuery": "Pantai Watukarung Pringkuku Pacitan",
+      "tiktokId": "7346167974442667269"
     },
     {
       "id": "4",
-      "youtubeId": "lDT3382pv4M",
       "name": "Tahu Tuna Pak Ran",
       "short": "Kuliner Khas",
       "category": "kuliner",
@@ -304,7 +310,6 @@
     },
     {
       "id": "5",
-      "youtubeId": "AEzn8BWzJps",
       "name": "Pitstop SPBU & Rest Area JLS",
       "short": "SPBU 24 Jam",
       "category": "pitstop",
@@ -360,6 +365,149 @@
         }
       ],
       "reviewQuery": "SPBU JLS Pringkuku Pacitan"
+    },
+    {
+      "colors": [
+        "#d1604a",
+        "#7d2a1f"
+      ],
+      "facilities": [
+        "Oleh-oleh Khas"
+      ],
+      "id": "6",
+      "tiktokId": "7410643433993424133",
+      "name": "Samudra Asri",
+      "short": "Tahu Tuna Khas Pacitan",
+      "category": "oleholeh",
+      "distance": "1.9 km",
+      "location": "Jl. Letjend MT. Haryono No.72, Ploso",
+      "desc": "Pusat oleh-oleh olahan tuna khas Pacitan dalam berbagai varian, termasuk tahu tuna.",
+      "price": "Mulai Rp 8.000",
+      "hours": "08:00 - 21:00",
+      "costs": [
+        [
+          "Harga Mulai",
+          "Rp 8.000"
+        ],
+        [
+          "Jam Buka",
+          "08:00 - 21:00"
+        ]
+      ],
+      "tags": [
+        "🛍️ Oleh-oleh",
+        "🐟 Olahan Tuna"
+      ],
+      "views": [
+        {
+          "name": "Samudra Asri",
+          "sub": "Oleh-oleh Tuna"
+        },
+        {
+          "name": "Tahu Tuna",
+          "sub": "Aneka Varian"
+        },
+        {
+          "name": "Olahan Tuna",
+          "sub": "Bawa Pulang"
+        }
+      ],
+      "reviewQuery": "Samudra Asri tahu tuna Pacitan"
+    },
+    {
+      "colors": [
+        "#e0903a",
+        "#8f4a12"
+      ],
+      "facilities": [
+        "Oleh-oleh Khas"
+      ],
+      "id": "7",
+      "tiktokId": "7466386131626544390",
+      "name": "Ikan Goreng Bu Yani",
+      "short": "Ikan Goreng Khas",
+      "category": "oleholeh",
+      "distance": "2.2 km",
+      "location": "Sekitar Pantai Teleng Ria",
+      "desc": "Ikan goreng khas Pacitan yang jadi incaran wisatawan untuk dibawa pulang, dekat Pantai Teleng Ria.",
+      "price": "Bervariasi",
+      "hours": "Cek di lokasi",
+      "costs": [
+        [
+          "Harga",
+          "Bervariasi"
+        ],
+        [
+          "Jam Buka",
+          "Cek di lokasi"
+        ]
+      ],
+      "tags": [
+        "🛍️ Oleh-oleh",
+        "🐟 Ikan Goreng"
+      ],
+      "views": [
+        {
+          "name": "Bu Yani",
+          "sub": "Ikan Goreng"
+        },
+        {
+          "name": "Teleng Ria",
+          "sub": "Dekat Pantai"
+        },
+        {
+          "name": "Bawa Pulang",
+          "sub": "Oleh-oleh"
+        }
+      ],
+      "reviewQuery": "Warung Ikan Goreng Bu Yani Pacitan"
+    },
+    {
+      "colors": [
+        "#b4568a",
+        "#6a2650"
+      ],
+      "facilities": [
+        "Oleh-oleh Khas"
+      ],
+      "id": "8",
+      "name": "Oghut Donat Pacitan",
+      "short": "Donat Oleh-oleh",
+      "category": "oleholeh",
+      "distance": "1.6 km",
+      "location": "Baleharjo, Pacitan",
+      "desc": "Donat berukuran besar dengan topping melimpah, populer sebagai oleh-oleh dari Pacitan.",
+      "price": "Bervariasi",
+      "hours": "Cek di lokasi",
+      "costs": [
+        [
+          "Harga",
+          "Bervariasi"
+        ],
+        [
+          "Jam Buka",
+          "Cek di lokasi"
+        ]
+      ],
+      "tags": [
+        "🛍️ Oleh-oleh",
+        "🍩 Donat"
+      ],
+      "views": [
+        {
+          "name": "Oghut Donat",
+          "sub": "Topping Melimpah"
+        },
+        {
+          "name": "Aneka Rasa",
+          "sub": "Donat Besar"
+        },
+        {
+          "name": "Bawa Pulang",
+          "sub": "Oleh-oleh"
+        }
+      ],
+      "reviewQuery": "Oghut Donat Pacitan"
     }
   ],
   "jlsPoints": [
@@ -384,52 +532,6 @@
       "tone": "blue",
       "desc": "Fasilitas: Pertamax/Dex, Tambal Ban, Musala, Minimarket",
       "placeId": "5"
-    }
-  ],
-  "checklistGroups": [
-    {
-      "id": "wisata",
-      "label": "⛰️ WISATA IMPIAN"
-    },
-    {
-      "id": "kuliner",
-      "label": "🍜 KULINER WAJIB"
-    },
-    {
-      "id": "pitstop",
-      "label": "⛽ PITSTOP & CAMP"
-    }
-  ],
-  "checklist": [
-    {
-      "id": "1",
-      "name": "Pantai Klayar & Seruling Denisa",
-      "group": "wisata"
-    },
-    {
-      "id": "2",
-      "name": "Gua Gong Pacitan",
-      "group": "wisata"
-    },
-    {
-      "id": "3",
-      "name": "Tahu Tuna Pak Ran (Sidoharjo)",
-      "group": "kuliner"
-    },
-    {
-      "id": "4",
-      "name": "Warung Nasi Tiwul Khas",
-      "group": "kuliner"
-    },
-    {
-      "id": "5",
-      "name": "Pitstop SPBU 24 Jam & Rest Area JLS",
-      "group": "pitstop"
-    },
-    {
-      "id": "6",
-      "name": "Camp Spot Pantai Watukarung",
-      "group": "pitstop"
     }
   ]
 }
