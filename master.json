@@ -1,5 +1,5 @@
 {
-  "version": 2,
+  "version": 3,
   "updatedAt": "2026-11-03",
   "categories": [
     {
@@ -131,7 +131,10 @@
         }
       ],
       "reviewQuery": "Pantai Klayar Donorojo Pacitan",
-      "tiktokId": "7493704679348636944"
+      "tiktokIds": [
+        "7493704679348636944",
+        "7507195758093913352"
+      ]
     },
     {
       "id": "2",
@@ -192,7 +195,10 @@
         }
       ],
       "reviewQuery": "Goa Gong Punung Pacitan",
-      "tiktokId": "7222947709769059610"
+      "tiktokIds": [
+        "7222947709769059610",
+        "7608547067954351367"
+      ]
     },
     {
       "id": "3",
@@ -252,7 +258,10 @@
         }
       ],
       "reviewQuery": "Pantai Watukarung Pringkuku Pacitan",
-      "tiktokId": "7346167974442667269"
+      "tiktokIds": [
+        "7346167974442667269",
+        "7652015157341637908"
+      ]
     },
     {
       "id": "4",
@@ -306,7 +315,8 @@
           "sub": "Bawa Pulang"
         }
       ],
-      "reviewQuery": "Tahu Tuna Pak Ran Pacitan"
+      "reviewQuery": "Tahu Tuna Pak Ran Pacitan",
+      "tiktokIds": []
     },
     {
       "id": "5",
@@ -364,7 +374,10 @@
           "sub": "Tambal & Angin"
         }
       ],
-      "reviewQuery": "SPBU JLS Pringkuku Pacitan"
+      "reviewQuery": "SPBU JLS Pringkuku Pacitan",
+      "tiktokIds": [
+        "7445620813656526085"
+      ]
     },
     {
       "colors": [
@@ -375,7 +388,6 @@
         "Oleh-oleh Khas"
       ],
       "id": "6",
-      "tiktokId": "7410643433993424133",
       "name": "Samudra Asri",
       "short": "Tahu Tuna Khas Pacitan",
       "category": "oleholeh",
@@ -412,7 +424,10 @@
           "sub": "Bawa Pulang"
         }
       ],
-      "reviewQuery": "Samudra Asri tahu tuna Pacitan"
+      "reviewQuery": "Samudra Asri tahu tuna Pacitan",
+      "tiktokIds": [
+        "7410643433993424133"
+      ]
     },
     {
       "colors": [
@@ -423,7 +438,6 @@
         "Oleh-oleh Khas"
       ],
       "id": "7",
-      "tiktokId": "7466386131626544390",
       "name": "Ikan Goreng Bu Yani",
       "short": "Ikan Goreng Khas",
       "category": "oleholeh",
@@ -460,7 +474,11 @@
           "sub": "Oleh-oleh"
         }
       ],
-      "reviewQuery": "Warung Ikan Goreng Bu Yani Pacitan"
+      "reviewQuery": "Warung Ikan Goreng Bu Yani Pacitan",
+      "tiktokIds": [
+        "7466386131626544390",
+        "7561301178538003768"
+      ]
     },
     {
       "colors": [
@@ -507,7 +525,10 @@
           "sub": "Oleh-oleh"
         }
       ],
-      "reviewQuery": "Oghut Donat Pacitan"
+      "reviewQuery": "Oghut Donat Pacitan",
+      "tiktokIds": [
+        "7551262833409805574"
+      ]
     }
   ],
   "jlsPoints": [
