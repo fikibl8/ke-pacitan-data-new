@@ -1,5 +1,5 @@
 {
-  "version": 4,
+  "version": 5,
   "updatedAt": "2026-11-03",
   "categories": [
     {
@@ -624,6 +624,496 @@
       "tone": "blue",
       "desc": "Fasilitas: Pertamax/Dex, Tambal Ban, Musala, Minimarket",
       "placeId": "5"
+    }
+  ],
+  "services": [
+    {
+      "id": "darurat",
+      "title": "Darurat",
+      "subtitle": "RS & Puskesmas",
+      "emoji": "🚑",
+      "color": [
+        "#c0392b",
+        "#8e1f14"
+      ],
+      "desc": "Nomor darurat dan fasilitas kesehatan terdekat. Tekan Navigasi untuk membuka rute di Google Maps.",
+      "hotlines": [
+        {
+          "label": "Darurat Umum",
+          "number": "112"
+        },
+        {
+          "label": "Polisi",
+          "number": "110"
+        },
+        {
+          "label": "Ambulans",
+          "number": "119"
+        },
+        {
+          "label": "SAR (Basarnas)",
+          "number": "115"
+        }
+      ],
+      "groups": [
+        {
+          "title": "🏥 Rumah Sakit",
+          "items": [
+            {
+              "name": "RSUD dr. Darsono Pacitan",
+              "note": "RS pemerintah",
+              "address": "Jl. Jend. A. Yani No.51, Krajan, Pacitan, Kec. Pacitan, Kabupaten Pacitan, Jawa Timur 63511",
+              "phone": "+62 357 881410",
+              "rating": 4.3,
+              "reviews": 1580,
+              "lat": -8.196098899999999,
+              "lng": 111.10037,
+              "placeId": "ChIJZ79u_NtheS4RMdpV_OKZaXE"
+            },
+            {
+              "name": "RUMAH SAKIT UMUM AGUNG MULIA PACITAN",
+              "address": "Jl. Sasuit Tubun No. 25 Sidoharjo, Jambu, Bangunsari, Kec. Pacitan, Kabupaten Pacitan, Jawa Timur 63514",
+              "phone": "+62 357 884466",
+              "rating": 4.8,
+              "reviews": 1608,
+              "lat": -8.1934312,
+              "lng": 111.09469419999999,
+              "placeId": "ChIJg4xyRN9heS4Rz6d2kZqqRJI"
+            },
+            {
+              "name": "Rumah Sakit Umum Medical Mandiri Pacitan",
+              "address": "Jl, Suruhan, Sirnoboyo, Kec. Pacitan, Kabupaten Pacitan, Jawa Timur 63518",
+              "phone": "+62 357 883989",
+              "rating": 4.7,
+              "reviews": 1061,
+              "lat": -8.206954999999999,
+              "lng": 111.12443999999999,
+              "placeId": "ChIJj0kCnbNheS4RBJqdlwxGLpU"
+            }
+          ]
+        },
+        {
+          "title": "🩺 Puskesmas di dekat lokasi wisata",
+          "items": [
+            {
+              "name": "Puskesmas Donorojo",
+              "note": "Terdekat dari Pantai Klayar",
+              "address": "WX5M+3H3, Jl. Kalak-Punung, Druju, Donorojo, Kec. Donorojo, Kabupaten Pacitan, Jawa Timur 63554",
+              "phone": "+62 357 511827",
+              "rating": 4.1,
+              "reviews": 111,
+              "lat": -8.0923529,
+              "lng": 110.9839143,
+              "placeId": "ChIJbTsgmafQey4Rr_v2Vd0rgBs"
+            },
+            {
+              "name": "Puskesmas Punung",
+              "note": "Terdekat dari Gua Gong",
+              "address": "Jl. Pacitan-Solo, Margorejo, Punung, Kec. Punung, Kabupaten Pacitan, Jawa Timur 63553",
+              "phone": "+62 357 511501",
+              "rating": 4.1,
+              "reviews": 68,
+              "lat": -8.1349543,
+              "lng": 111.0085996,
+              "placeId": "ChIJbR__RnjZey4RDf0r71wmJLs"
+            },
+            {
+              "name": "Puskesmas Pringkuku",
+              "note": "Terdekat dari Watukarung",
+              "address": "Jl. Pacitan Donorojo, Bulu, Ngadirejan, Kec. Pringkuku, Kabupaten Pacitan, Jawa Timur 63552",
+              "rating": 4.5,
+              "reviews": 27,
+              "lat": -8.1716109,
+              "lng": 111.04828499999999,
+              "placeId": "ChIJF7g0O9XYey4Ru7fHzAE7rac"
+            },
+            {
+              "name": "Puskesmas Ngadirojo",
+              "note": "Terdekat dari jalur JLS",
+              "address": "Jl. Lorok - Pacitan, Kutukan, Cokrokembang, Kec. Ngadirojo, Kabupaten Pacitan, Jawa Timur 57561",
+              "phone": "+62 357 441116",
+              "rating": 4.5,
+              "reviews": 319,
+              "lat": -8.201635999999999,
+              "lng": 111.3320299,
+              "placeId": "ChIJKR7YqpE5ei4R1_t9pkYn8Jc"
+            },
+            {
+              "name": "Puskesmas Pacitan",
+              "note": "Kota Pacitan",
+              "address": "Duduhan, Mentoro, Kec. Pacitan, Kabupaten Pacitan, Jawa Timur 63518",
+              "phone": "+62 357 883894",
+              "rating": 4.2,
+              "reviews": 91,
+              "lat": -8.1935935,
+              "lng": 111.1266014,
+              "placeId": "ChIJVVVVFaVheS4RMSMQbXspGHw"
+            }
+          ]
+        },
+        {
+          "title": "💊 Apotek",
+          "items": [
+            {
+              "name": "Apotek K-24 Basuki Rahmad Pacitan",
+              "address": "Jl. Basuki Rahmat, RT.05/RW.02, Gemulung, Tanjungsari, Pacitan, Pacitan Regency, East Java 63518",
+              "phone": "+62 811-3334-747",
+              "rating": 4.8,
+              "reviews": 44,
+              "lat": -8.1946218,
+              "lng": 111.11047959999999,
+              "placeId": "ChIJm6pkfoRheS4RbFf4OalcghU"
+            },
+            {
+              "name": "Apotek “Cuwik Farma”",
+              "address": "Q3VW+P22, Jl. Gatot Subroto, RT.03/RW.07, Ngampel, Ploso, Kec. Pacitan, Kabupaten Pacitan, Jawa Timur 63515",
+              "phone": "+62 823-3023-4556",
+              "rating": 4.8,
+              "reviews": 29,
+              "lat": -8.205731199999999,
+              "lng": 111.0950146,
+              "placeId": "ChIJ_____37fey4RHt6Y7XcNsv8"
+            }
+          ]
+        }
+      ],
+      "updatedAt": "2026-11-03"
+    },
+    {
+      "id": "pitstop",
+      "title": "Pitstop",
+      "subtitle": "SPBU & bengkel",
+      "emoji": "⛽",
+      "color": [
+        "#d97706",
+        "#92400e"
+      ],
+      "desc": "Isi bensin, tambal ban, dan bengkel di sepanjang rute Pacitan. Cek jam buka sebelum berangkat, terutama malam hari.",
+      "groups": [
+        {
+          "title": "⛽ SPBU / POM Bensin",
+          "items": [
+            {
+              "name": "SPBU Pertamina 54.635.01 Ploso",
+              "note": "Kota Pacitan",
+              "address": "Jl. Gatot Subroto No.80, Ngampel, Ploso, Kec. Pacitan, Kabupaten Pacitan, Jawa Timur 63515",
+              "rating": 3.9,
+              "reviews": 523,
+              "lat": -8.2045775,
+              "lng": 111.09731359999999,
+              "placeId": "ChIJq_H58tZheS4RVt68nmuiI1s"
+            },
+            {
+              "name": "SPBU Pertamina 54.635.03 Mentoro Pacitan",
+              "note": "Jalur Pacitan–Trenggalek",
+              "address": "Jalan Pacitan - Trenggalek, Duduhan, Mentoro, Kec. Pacitan, Kabupaten Pacitan, Jawa Timur 63518",
+              "rating": 3.8,
+              "reviews": 259,
+              "lat": -8.1925894,
+              "lng": 111.1291967,
+              "placeId": "ChIJgeZpgbxheS4Re2aVhXkR9hk"
+            },
+            {
+              "name": "SPBU Pertamina 54.635.05 Punung",
+              "note": "Jalur Solo, dekat Gua Gong",
+              "address": "Kebon, Punung, Kec. Punung, Kabupaten Pacitan, Jawa Timur 63553",
+              "phone": "+62 821-3141-9758",
+              "rating": 4.3,
+              "reviews": 625,
+              "lat": -8.137437499999999,
+              "lng": 111.01368749999999,
+              "placeId": "ChIJ3y9s3HbZey4RlPl92VVI2Io"
+            },
+            {
+              "name": "SPBU Pertamina 54.635.07 Soge",
+              "note": "Di jalur JLS",
+              "address": "Jl. Jalur lintas selatan, Soge, Sidomulyo, Kec. Ngadirojo, Kabupaten Pacitan, Jawa Timur 63511",
+              "phone": "+62 813-5855-7507",
+              "rating": 4.4,
+              "reviews": 91,
+              "lat": -8.2468908,
+              "lng": 111.2634095,
+              "placeId": "ChIJl9ePso5deS4RM_3VO5NYPZI"
+            },
+            {
+              "name": "SPBU Pertamina 54.635.04",
+              "note": "Ngadirojo, jalur Pacitan–Trenggalek",
+              "address": "Q8QG+R8V, Jl. Pacitan - Trenggalek, Lorok, Ngadirojo, Kec. Ngadirojo, Kabupaten Pacitan, Jawa Timur 63572",
+              "rating": 3.9,
+              "reviews": 309,
+              "lat": -8.2103871,
+              "lng": 111.3257883,
+              "placeId": "ChIJb5GQC05oeS4ROpXDM1BDA_8"
+            },
+            {
+              "name": "SPBU PERTAMINA NANGGUNGAN",
+              "note": "Jalur Ponorogo–Pacitan",
+              "address": "Jl. Tentara Pelajar No.36 Ds, Bulu, Nanggungan, Pacitan, Pacitan Regency, East Java 63518",
+              "rating": 3.8,
+              "reviews": 361,
+              "lat": -8.1812232,
+              "lng": 111.1178272,
+              "placeId": "ChIJCQ0azpJheS4R6NXaYk_KpPI"
+            }
+          ]
+        },
+        {
+          "title": "🛞 Tambal Ban",
+          "items": [
+            {
+              "name": "MAJU BAN PACITAN (MASUKA TIRES)",
+              "address": "Jl. Manggribi No.33, Menadi, Pacitan, Pacitan Regency, East Java 63516",
+              "phone": "+62 821-3223-6788",
+              "rating": 4.9,
+              "reviews": 175,
+              "lat": -8.1963501,
+              "lng": 111.1190331,
+              "placeId": "ChIJF35Rj-9heS4RwE8KGhQckT8"
+            },
+            {
+              "name": "Narto Ban",
+              "address": "Q4XG+W7M, Jl. Adi Sucipto, RT.07/RW.3, Bangsri, Mentoro, Kec. Pacitan, Kabupaten Pacitan, Jawa Timur 63518",
+              "phone": "+62 813-3544-7645",
+              "rating": 4.5,
+              "reviews": 62,
+              "lat": -8.2001558,
+              "lng": 111.1256684,
+              "placeId": "ChIJuXAXkLBheS4RGNOAqsF3VZ4"
+            },
+            {
+              "name": "TAMBAL BAN MOBIL DAN MOTOR PAK JOKO",
+              "address": "Depan Praktek DR Harto, Kebonredi, Tanjungsari, Kec. Pacitan, Kabupaten Pacitan, Jawa Timur 63551",
+              "phone": "+62 859-3221-4120",
+              "rating": 4.7,
+              "reviews": 10,
+              "lat": -8.193709,
+              "lng": 111.10762009999999,
+              "placeId": "ChIJaS54bBJheS4RKYtxiVZxwOM"
+            },
+            {
+              "name": "Pacitan Angin Energy",
+              "address": "Jaten, Sidoharjo, Kec. Pacitan, Kabupaten Pacitan, Jawa Timur 63514",
+              "phone": "+62 815-1810-606",
+              "rating": 4.3,
+              "reviews": 28,
+              "lat": -8.2149375,
+              "lng": 111.07668749999999,
+              "placeId": "ChIJnYyfuVHfey4Rjyih_AxyCL0"
+            },
+            {
+              "name": "Gudang Ban Motor Pacitan",
+              "note": "Arah Kebonagung / JLS",
+              "address": "R598+R84, Jl. Pacitan-Trenggalek, RT.02/RW.05, Pakis, Wonogondo, Kec. Kebonagung, Kabupaten Pacitan, Jawa Timur 63561",
+              "phone": "+62 852-3351-6333",
+              "rating": 4.8,
+              "reviews": 28,
+              "lat": -8.1804814,
+              "lng": 111.1658168,
+              "placeId": "ChIJsYe3gbpheS4R4qBrp072ah8"
+            },
+            {
+              "name": "Sejajar Wijaya Spare Part Motor (tambal Ban)",
+              "note": "Di jalan Pantai Klayar",
+              "address": "Jl. Pantai Klayar No.KM, RW.2, Bolo, Kalak, Kec. Donorojo, Kabupaten Pacitan, Jawa Timur 63554",
+              "phone": "+62 812-3550-3666",
+              "rating": 4.7,
+              "reviews": 3,
+              "lat": -8.2072082,
+              "lng": 110.9417716,
+              "placeId": "ChIJo1XdqfHcey4R0rc9Rv_jcnI"
+            }
+          ]
+        },
+        {
+          "title": "🔧 Bengkel Motor",
+          "items": [
+            {
+              "name": "Dealer & Bengkel Resmi Honda AHASS 07394 Siswa Motor Pacitan",
+              "note": "Bengkel resmi Honda",
+              "address": "Jl. Jend. A. Yani No.15, Krajan, Pacitan, Kec. Pacitan, Kabupaten Pacitan, Jawa Timur 63511",
+              "phone": "+62 851-7892-3937",
+              "rating": 5,
+              "reviews": 3130,
+              "lat": -8.19557,
+              "lng": 111.10560199999999,
+              "placeId": "ChIJuSpMQtxheS4RC4kT2ocl6FY"
+            },
+            {
+              "name": "Ahass 15485 Siswa Motor Punung",
+              "note": "Bengkel resmi Honda, dekat Gua Gong",
+              "address": "Jl. Raya Solo Pacitan km 29 Klepu, Klepu, Punung, Kec. Punung, Kabupaten Pacitan, Jawa Timur 63552",
+              "phone": "+62 357 511222",
+              "rating": 4.9,
+              "reviews": 401,
+              "lat": -8.1393012,
+              "lng": 111.0192606,
+              "placeId": "ChIJ8Q6yCnPZey4RzAUGGgei-V4"
+            },
+            {
+              "name": "Ahass Andrila Motor",
+              "note": "Bengkel resmi Honda",
+              "address": "Jl. Manggribi No.17, Duduhan, Mentoro, Kec. Pacitan, Kabupaten Pacitan, Jawa Timur 63518",
+              "phone": "+62 811-3607-282",
+              "rating": 4.6,
+              "reviews": 92,
+              "lat": -8.1936228,
+              "lng": 111.1268188,
+              "placeId": "ChIJf21xWrdheS4R32fjcu-kiUs"
+            },
+            {
+              "name": "Bengkel Satria Motor",
+              "address": "Jl. Basuki Rahmat No.39, Purwoharjo, Baleharjo, Kec. Pacitan, Kabupaten Pacitan, Jawa Timur 63518",
+              "phone": "+62 357 885169",
+              "rating": 4.2,
+              "reviews": 25,
+              "lat": -8.1946627,
+              "lng": 111.10824749999999,
+              "placeId": "ChIJ38DjfsNheS4RAWFAZ42WdE8"
+            }
+          ]
+        }
+      ],
+      "updatedAt": "2026-11-03"
+    },
+    {
+      "id": "penginapan",
+      "title": "Penginapan",
+      "subtitle": "Hotel & homestay",
+      "emoji": "🏨",
+      "color": [
+        "#2b6cb0",
+        "#1a365d"
+      ],
+      "desc": "Hotel di kota dan homestay dekat pantai. Hubungi langsung untuk harga dan ketersediaan kamar.",
+      "groups": [
+        {
+          "title": "🌊 Dekat Pantai Klayar",
+          "items": [
+            {
+              "name": "Homestay Kinasih",
+              "address": "Jl. Pantai Klayar, Kendal, Sendang, Kec. Donorojo, Kabupaten Pacitan, Jawa Timur 63553",
+              "phone": "+62 853-3032-2211",
+              "rating": 4.7,
+              "reviews": 421,
+              "lat": -8.224117999999999,
+              "lng": 110.9481704,
+              "placeId": "ChIJO8Vo0QDdey4RiES6-wvIwfM"
+            },
+            {
+              "name": "Homestay Kayu Pantai Klayar",
+              "address": "Jl. Pantai Klayar, Kendal, Sendang, Kec. Donorojo, Kabupaten Pacitan, Jawa Timur 63554",
+              "phone": "+62 813-3177-6941",
+              "rating": 5,
+              "reviews": 150,
+              "lat": -8.2248848,
+              "lng": 110.94870549999999,
+              "placeId": "ChIJkfhOaEbdey4RyKzjPHv4fx0"
+            }
+          ]
+        },
+        {
+          "title": "🏄 Dekat Pantai Watukarung",
+          "items": [
+            {
+              "name": "Desa Limasan Resort",
+              "address": "Ketro, RT.01/RW.06, Ketro, Watukarung, Kec. Pringkuku, Kabupaten Pacitan, Jawa Timur 63552",
+              "phone": "+62 813-3231-6459",
+              "rating": 4.7,
+              "reviews": 495,
+              "lat": -8.2368092,
+              "lng": 110.97530429999999,
+              "placeId": "ChIJAQAAANDeey4R3sWAyXu2IhA"
+            },
+            {
+              "name": "Watukarung Prapto Homestay, Surf Accommodation",
+              "address": "Ketro, Watukarung, Kec. Pringkuku, Kabupaten Pacitan, Jawa Timur 63552",
+              "phone": "+62 853-2675-7012",
+              "rating": 4.7,
+              "reviews": 381,
+              "lat": -8.236316,
+              "lng": 110.9744329,
+              "placeId": "ChIJpcBsh7_dey4RIOh7y1E5ByI"
+            },
+            {
+              "name": "Watukarung Ristu Homestay",
+              "address": "Ketro, Watukarung, Pringkuku, Pacitan Regency, East Java 63552",
+              "phone": "+62 821-3608-4343",
+              "rating": 4.8,
+              "reviews": 337,
+              "lat": -8.2351973,
+              "lng": 110.97315239999999,
+              "placeId": "ChIJKz3YpVPdey4RWFlEQnHyOsA"
+            },
+            {
+              "name": "Watukarung Sackstone guesthouse surf",
+              "address": "RT 01 RW 06 dusun ketro desa, Ketro, Watukarung, Kec. Pringkuku, Kabupaten Pacitan, Jawa Timur 63552",
+              "phone": "+62 821-4314-4441",
+              "rating": 4.8,
+              "reviews": 299,
+              "lat": -8.2360744,
+              "lng": 110.97429699999999,
+              "placeId": "ChIJ-8n3gL_dey4R-VivIJ2lInU"
+            }
+          ]
+        },
+        {
+          "title": "🏙️ Hotel di Kota Pacitan",
+          "items": [
+            {
+              "name": "Guest House Kraton Mas",
+              "address": "Jl. Letjend MT. Haryono No.57, Barean, Sidoharjo, Kec. Pacitan, Kabupaten Pacitan, Jawa Timur 63514",
+              "phone": "+62 813-3640-1776",
+              "rating": 4.8,
+              "reviews": 830,
+              "lat": -8.2006824,
+              "lng": 111.0936622,
+              "placeId": "ChIJn28RH9hheS4R9hPviN4bdKY"
+            },
+            {
+              "name": "Hotel Kaliu",
+              "address": "Jl. Gatot Subroto, Purwoharjo, Baleharjo, Kec. Pacitan, Kabupaten Pacitan, Jawa Timur 63511",
+              "phone": "+62 812-2726-2626",
+              "rating": 4.7,
+              "reviews": 137,
+              "lat": -8.2010538,
+              "lng": 111.101492,
+              "placeId": "ChIJq3fYs99heS4REfTZENVYQDw"
+            },
+            {
+              "name": "SUMILIR HOTEL SYARIAH",
+              "address": "𝙒𝘼 Jl. Hos Cokroaminoto No.10, Krajan, Pacitan, Kec. Pacitan, Kabupaten Pacitan, Jawa Timur 63512",
+              "phone": "+62 821-4174-7041",
+              "rating": 4.8,
+              "reviews": 116,
+              "lat": -8.192924699999999,
+              "lng": 111.1016745,
+              "placeId": "ChIJ54wIloVheS4RsrLvp_8ydaw"
+            },
+            {
+              "name": "Parai Beach Resort Telengria",
+              "note": "Dekat Pantai Teleng Ria",
+              "address": "Jl. WR. Supratman, Teleng, Sidoharjo, Kec. Pacitan, Kabupaten Pacitan, Jawa Timur 63514",
+              "phone": "+62 821-4140-3128",
+              "rating": 4.2,
+              "reviews": 3774,
+              "lat": -8.2198447,
+              "lng": 111.07962719999999,
+              "placeId": "ChIJ41fXdnjfey4RQqzJmPk0tjg"
+            },
+            {
+              "name": "Prasasti Hotel Pacitan",
+              "address": "Jl. Imam Bonjol No.8, Krajan, Pacitan, Kec. Pacitan, Kabupaten Pacitan, Jawa Timur 63512",
+              "phone": "+62 357 882443",
+              "rating": 4.1,
+              "reviews": 745,
+              "lat": -8.1922413,
+              "lng": 111.10268939999999,
+              "placeId": "ChIJawh4Bt1heS4RYuzrcgirdcE"
+            }
+          ]
+        }
+      ],
+      "updatedAt": "2026-11-03"
     }
   ]
 }
