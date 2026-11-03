@@ -1,0 +1,435 @@
+{
+  "version": 1,
+  "updatedAt": "2026-11-03",
+  "categories": [
+    {
+      "id": "semua",
+      "label": "Semua"
+    },
+    {
+      "id": "wisata",
+      "label": "⛰️ Wisata"
+    },
+    {
+      "id": "kuliner",
+      "label": "🍜 Kuliner"
+    },
+    {
+      "id": "pitstop",
+      "label": "⛽ Pitstop"
+    },
+    {
+      "id": "camping",
+      "label": "⛺ Camping"
+    }
+  ],
+  "heroSlides": [
+    {
+      "id": "1",
+      "badge": "🌊 PANTAI IKONIK",
+      "circle": "Pantai Klayar",
+      "circleSub": "Seruling Samudra",
+      "title": "Pantai Klayar",
+      "meta": "Donorejo · HTM Rp 15.000",
+      "colors": [
+        "#2c7fb8",
+        "#1d4e7a",
+        "#0b1f33"
+      ]
+    },
+    {
+      "id": "2",
+      "badge": "🔮 GUA TERINDAH ASIA",
+      "circle": "Gua Gong",
+      "circleSub": "Gua Terindah Asia",
+      "title": "Gua Gong Pacitan",
+      "meta": "Punung · HTM Rp 20.000",
+      "colors": [
+        "#3b1f7a",
+        "#1c0f3d",
+        "#050208"
+      ]
+    },
+    {
+      "id": "3",
+      "badge": "🏍️ JALUR TOURING",
+      "circle": "Jalur JLS",
+      "circleSub": "Pesisir Selatan",
+      "title": "Jelajah Jalur JLS",
+      "meta": "Rute Pantai Selatan · Gratis",
+      "colors": [
+        "#c2742a",
+        "#7a3d12",
+        "#1f0e04"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "id": "1",
+      "youtubeId": "wwTrVGQiync",
+      "name": "Pantai Klayar",
+      "short": "Seruling Samudra",
+      "category": "wisata",
+      "distance": "1.2 km",
+      "location": "Kalak, Donorejo",
+      "desc": "Pantai dengan seruling samudra ikonik & tebing karang raksasa.",
+      "colors": [
+        "#3a8fc0",
+        "#2a6a8a"
+      ],
+      "price": "Rp 15.000",
+      "hours": "06:00 - 18:00",
+      "costs": [
+        [
+          "HTM Masuk",
+          "Rp 15.000"
+        ],
+        [
+          "Parkir Motor",
+          "Rp 5.000"
+        ],
+        [
+          "Parkir Mobil",
+          "Rp 10.000"
+        ],
+        [
+          "Jam Buka",
+          "06:00 - 18:00"
+        ]
+      ],
+      "tags": [
+        "🌊 Seruling Samudra",
+        "🚻 Toilet",
+        "🕌 Musala",
+        "🍜 Warung"
+      ],
+      "facilities": [
+        "Ramah Anak",
+        "Musala & Toilet",
+        "Akses Bus",
+        "Warung Makan"
+      ],
+      "views": [
+        {
+          "name": "Pantai Klayar",
+          "sub": "Seruling Samudra"
+        },
+        {
+          "name": "Seruling Denisa",
+          "sub": "Semburan Air"
+        },
+        {
+          "name": "Tebing Karang",
+          "sub": "Spot Foto"
+        }
+      ],
+      "reviewQuery": "Pantai Klayar Donorojo Pacitan"
+    },
+    {
+      "id": "2",
+      "youtubeId": "K4JXtKtFVXM",
+      "name": "Gua Gong Pacitan",
+      "short": "Gua Terindah Asia",
+      "category": "wisata",
+      "distance": "2.8 km",
+      "location": "Bomo, Punung",
+      "desc": "Gua dengan stalaktit & stalagmit megah, dijuluki gua terindah se-Asia Tenggara.",
+      "colors": [
+        "#4a2a9a",
+        "#1f1050"
+      ],
+      "price": "Rp 20.000",
+      "hours": "07:00 - 17:00",
+      "costs": [
+        [
+          "HTM Masuk",
+          "Rp 20.000"
+        ],
+        [
+          "Parkir Motor",
+          "Rp 5.000"
+        ],
+        [
+          "Parkir Mobil",
+          "Rp 10.000"
+        ],
+        [
+          "Jam Buka",
+          "07:00 - 17:00"
+        ]
+      ],
+      "tags": [
+        "🔦 Pemandu",
+        "🚻 Toilet",
+        "🕌 Musala",
+        "🍜 Warung"
+      ],
+      "facilities": [
+        "Ramah Anak",
+        "Musala & Toilet",
+        "Akses Bus",
+        "Warung Makan"
+      ],
+      "views": [
+        {
+          "name": "Gua Gong",
+          "sub": "Gua Terindah Asia"
+        },
+        {
+          "name": "Stalaktit",
+          "sub": "Ornamen Alami"
+        },
+        {
+          "name": "Lorong Gua",
+          "sub": "Jalur Wisata"
+        }
+      ],
+      "reviewQuery": "Goa Gong Punung Pacitan"
+    },
+    {
+      "id": "3",
+      "youtubeId": "N1nKUGkyHwU",
+      "name": "Pantai Watukarung",
+      "short": "Camping & Surfing",
+      "category": "camping",
+      "distance": "4.5 km",
+      "location": "Watukarung, Pringkuku",
+      "desc": "Spot camping tepi pantai populer dengan ombak kelas dunia.",
+      "colors": [
+        "#3aa07a",
+        "#1d6048"
+      ],
+      "price": "Rp 10.000",
+      "hours": "Buka 24 Jam",
+      "costs": [
+        [
+          "HTM Masuk",
+          "Rp 10.000"
+        ],
+        [
+          "Parkir Motor",
+          "Rp 3.000"
+        ],
+        [
+          "Sewa Tenda",
+          "Rp 20.000"
+        ],
+        [
+          "Jam Buka",
+          "24 Jam"
+        ]
+      ],
+      "tags": [
+        "⛺ Spot Tenda",
+        "🚻 Toilet",
+        "🕌 Musala",
+        "🍜 Warung"
+      ],
+      "facilities": [
+        "Spot Tenda",
+        "Musala & Toilet",
+        "Warung Makan"
+      ],
+      "views": [
+        {
+          "name": "Watukarung",
+          "sub": "Camping & Surfing"
+        },
+        {
+          "name": "Spot Tenda",
+          "sub": "Tepi Pantai"
+        },
+        {
+          "name": "Ombak",
+          "sub": "Surfing"
+        }
+      ],
+      "reviewQuery": "Pantai Watukarung Pringkuku Pacitan"
+    },
+    {
+      "id": "4",
+      "youtubeId": "lDT3382pv4M",
+      "name": "Tahu Tuna Pak Ran",
+      "short": "Kuliner Khas",
+      "category": "kuliner",
+      "distance": "0.8 km",
+      "location": "Jl. Pacitan-Solo, Sidoharjo",
+      "desc": "Kuliner khas olahan tahu isi daging tuna segar Pacitan.",
+      "colors": [
+        "#d98a2e",
+        "#8a4a14"
+      ],
+      "price": "Rp 12.000",
+      "hours": "08:00 - 21:00",
+      "costs": [
+        [
+          "Harga Menu",
+          "Mulai Rp 12.000"
+        ],
+        [
+          "Parkir",
+          "Gratis / Luas"
+        ],
+        [
+          "Jam Buka",
+          "08:00 - 21:00"
+        ]
+      ],
+      "tags": [
+        "🍜 Tahu Tuna",
+        "🚻 Toilet",
+        "🕌 Musala"
+      ],
+      "facilities": [
+        "Ramah Anak",
+        "Musala & Toilet",
+        "Warung Makan"
+      ],
+      "views": [
+        {
+          "name": "Tahu Tuna",
+          "sub": "Kuliner Khas"
+        },
+        {
+          "name": "Ruang Makan",
+          "sub": "Warung"
+        },
+        {
+          "name": "Oleh-oleh",
+          "sub": "Bawa Pulang"
+        }
+      ],
+      "reviewQuery": "Tahu Tuna Pak Ran Pacitan"
+    },
+    {
+      "id": "5",
+      "youtubeId": "AEzn8BWzJps",
+      "name": "Pitstop SPBU & Rest Area JLS",
+      "short": "SPBU 24 Jam",
+      "category": "pitstop",
+      "distance": "3.1 km",
+      "location": "JLS Pacitan Km 12",
+      "desc": "Pos istirahat siaga utama pemotor dan overland di jalur JLS.",
+      "colors": [
+        "#c0463a",
+        "#6e1f1a"
+      ],
+      "price": "Gratis",
+      "hours": "Buka 24 Jam",
+      "costs": [
+        [
+          "HTM Masuk",
+          "Gratis"
+        ],
+        [
+          "Parkir Motor",
+          "Free"
+        ],
+        [
+          "Parkir Mobil",
+          "Free"
+        ],
+        [
+          "Jam Buka",
+          "24 Jam Siaga"
+        ]
+      ],
+      "tags": [
+        "⛽ Pertamax/Dex",
+        "🛠️ Angin/Tambal",
+        "🏧 ATM",
+        "🕌 Musala"
+      ],
+      "facilities": [
+        "Musala & Toilet",
+        "Akses Bus"
+      ],
+      "views": [
+        {
+          "name": "Pitstop SPBU JLS",
+          "sub": "Buka 24 Jam"
+        },
+        {
+          "name": "Rest Area",
+          "sub": "Istirahat"
+        },
+        {
+          "name": "Bengkel Siaga",
+          "sub": "Tambal & Angin"
+        }
+      ],
+      "reviewQuery": "SPBU JLS Pringkuku Pacitan"
+    }
+  ],
+  "jlsPoints": [
+    {
+      "id": "1",
+      "title": "Rest Area Pantai Soge",
+      "badge": "View Jembatan",
+      "tone": "yellow",
+      "desc": "Medan: Aspal Mulus Flat • Fasilitas: Warung Kelapa, Toilet, SPBU 3km"
+    },
+    {
+      "id": "2",
+      "title": "Sentono Gentong",
+      "badge": "Tebing Tinggi",
+      "tone": "green",
+      "desc": "Medan: Tanjakan Curam Sedang • View Kota & Teluk Pacitan"
+    },
+    {
+      "id": "3",
+      "title": "SPBU Siaga JLS & Rest Area",
+      "badge": "Pitstop 24 Jam",
+      "tone": "blue",
+      "desc": "Fasilitas: Pertamax/Dex, Tambal Ban, Musala, Minimarket",
+      "placeId": "5"
+    }
+  ],
+  "checklistGroups": [
+    {
+      "id": "wisata",
+      "label": "⛰️ WISATA IMPIAN"
+    },
+    {
+      "id": "kuliner",
+      "label": "🍜 KULINER WAJIB"
+    },
+    {
+      "id": "pitstop",
+      "label": "⛽ PITSTOP & CAMP"
+    }
+  ],
+  "checklist": [
+    {
+      "id": "1",
+      "name": "Pantai Klayar & Seruling Denisa",
+      "group": "wisata"
+    },
+    {
+      "id": "2",
+      "name": "Gua Gong Pacitan",
+      "group": "wisata"
+    },
+    {
+      "id": "3",
+      "name": "Tahu Tuna Pak Ran (Sidoharjo)",
+      "group": "kuliner"
+    },
+    {
+      "id": "4",
+      "name": "Warung Nasi Tiwul Khas",
+      "group": "kuliner"
+    },
+    {
+      "id": "5",
+      "name": "Pitstop SPBU 24 Jam & Rest Area JLS",
+      "group": "pitstop"
+    },
+    {
+      "id": "6",
+      "name": "Camp Spot Pantai Watukarung",
+      "group": "pitstop"
+    }
+  ]
+}
