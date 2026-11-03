@@ -19,6 +19,10 @@ for (const s of m.services || []) for (const g of s.groups) for (const im of [..
 for (const s of m.services || []) for (const g of s.groups) for (const it of g.items)
   if (!inPacitan(it.lat, it.lng)) errors.push(`services[${s.id}] "${it.name}": lat/lng wajib ada dan harus di wilayah Pacitan`);
 for (const h of m.heroSlides || []) if (h.placeId && !ids.has(h.placeId)) errors.push(`heroSlides[${h.id}]: placeId ${h.placeId} tidak ada`);
+for (const it of m.itineraries || []) {
+  if ((it.stops || []).length < 2) errors.push(`itineraries[${it.id}]: minimal 2 pemberhentian`);
+  for (const st of it.stops || []) if (!ids.has(st.placeId)) errors.push(`itineraries[${it.id}]: placeId ${st.placeId} tidak ada`);
+}
 for (const j of m.jlsPoints || []) if (j.placeId && !ids.has(j.placeId)) errors.push(`jlsPoints[${j.id}]: placeId ${j.placeId} tidak ada`);
 
 if (errors.length) {

@@ -1,5 +1,5 @@
 {
-  "version": 8,
+  "version": 9,
   "updatedAt": "2026-11-03",
   "categories": [
     {
@@ -78,13 +78,13 @@
         "#7a3d12",
         "#1f0e04"
       ],
-      "tab": "jls",
       "image": {
         "src": "images/5-1.jpg",
         "credit": "Foto: Saeful Aji Sucipto · CC BY-SA 4.0",
         "source": "https://commons.wikimedia.org/wiki/File:Pantai_Soge,_Pacitan,_Jawa_Timur.jpg",
         "caption": "Pantai Soge, di jalur JLS"
-      }
+      },
+      "placeId": "5"
     }
   ],
   "places": [
@@ -597,30 +597,6 @@
       ],
       "lat": -8.196656,
       "lng": 111.102129
-    }
-  ],
-  "jlsPoints": [
-    {
-      "id": "1",
-      "title": "Rest Area Pantai Soge",
-      "badge": "View Jembatan",
-      "tone": "yellow",
-      "desc": "Medan: Aspal Mulus Flat • Fasilitas: Warung Kelapa, Toilet, SPBU 3km"
-    },
-    {
-      "id": "2",
-      "title": "Sentono Gentong",
-      "badge": "Tebing Tinggi",
-      "tone": "green",
-      "desc": "Medan: Tanjakan Curam Sedang • View Kota & Teluk Pacitan"
-    },
-    {
-      "id": "3",
-      "title": "SPBU Soge (Jalur JLS)",
-      "badge": "Pitstop JLS",
-      "tone": "blue",
-      "desc": "SPBU Pertamina di jalur JLS dekat Pantai Soge. Isi bensin sebelum menyusuri jalur pesisir selatan.",
-      "placeId": "5"
     }
   ],
   "services": [
@@ -1195,6 +1171,124 @@
         }
       ],
       "updatedAt": "2026-11-03"
+    }
+  ],
+  "itineraries": [
+    {
+      "id": "alam",
+      "title": "Alam Pacitan Barat",
+      "duration": "1 hari",
+      "emoji": "🌊",
+      "color": [
+        "#2c7fb8",
+        "#0b1f33"
+      ],
+      "desc": "Gua berstalaktit, pantai berbatu karang, dan pantai untuk bersantai, semuanya di sisi barat Pacitan.",
+      "stops": [
+        {
+          "placeId": "2",
+          "note": "Mulai pagi dari sini, selagi suasana masih sepi."
+        },
+        {
+          "placeId": "1",
+          "note": "Lihat formasi karang dan seruling samudra. Ombak besar: ikuti arahan petugas dan jangan berenang."
+        },
+        {
+          "placeId": "3",
+          "note": "Santai di pantai dan nikmati suasana sore. Bisa menginap di homestay sekitar (lihat menu Penginapan)."
+        }
+      ],
+      "tips": [
+        "Isi bensin penuh di kota Pacitan atau SPBU Punung sebelum menuju pantai (lihat menu Pitstop).",
+        "Bawa uang tunai; tidak semua tempat menerima pembayaran digital.",
+        "Cek prakiraan cuaca dan ombak sebelum berangkat."
+      ]
+    },
+    {
+      "id": "kuliner",
+      "title": "Kuliner & Oleh-oleh Kota",
+      "duration": "½ hari",
+      "emoji": "🍤",
+      "color": [
+        "#d97706",
+        "#92400e"
+      ],
+      "desc": "Berburu tahu tuna, ikan goreng, dan donat untuk dibawa pulang, semuanya di dalam kota Pacitan.",
+      "stops": [
+        {
+          "placeId": "7",
+          "note": "Ikan goreng khas, dekat Pantai Teleng Ria."
+        },
+        {
+          "placeId": "4",
+          "note": "Tahu tuna untuk oleh-oleh. Cek jam buka dulu."
+        },
+        {
+          "placeId": "6",
+          "note": "Aneka olahan tuna, buka 08:00–21:00."
+        },
+        {
+          "placeId": "8",
+          "note": "Donat besar dengan topping melimpah."
+        }
+      ],
+      "tips": [
+        "Tahu tuna dan ikan goreng paling awet bila dibawa dengan cooler box.",
+        "Jam buka tiap toko bisa berubah; hubungi lebih dulu bila ingin memastikan."
+      ]
+    },
+    {
+      "id": "dua-hari",
+      "title": "2 Hari: Alam + Kuliner",
+      "duration": "2 hari",
+      "emoji": "🗺️",
+      "color": [
+        "#3d9a8b",
+        "#17403a"
+      ],
+      "desc": "Hari pertama menjelajah alam di barat dan menginap di Watukarung, hari kedua berburu kuliner di kota.",
+      "stops": [
+        {
+          "placeId": "2",
+          "note": "Mulai pagi dari sini, selagi suasana masih sepi.",
+          "day": 1
+        },
+        {
+          "placeId": "1",
+          "note": "Lihat formasi karang dan seruling samudra. Ombak besar: ikuti arahan petugas dan jangan berenang.",
+          "day": 1
+        },
+        {
+          "placeId": "3",
+          "note": "Santai di pantai dan nikmati suasana sore. Bisa menginap di homestay sekitar (lihat menu Penginapan).",
+          "day": 1
+        },
+        {
+          "placeId": "7",
+          "note": "Ikan goreng khas, dekat Pantai Teleng Ria.",
+          "day": 2
+        },
+        {
+          "placeId": "4",
+          "note": "Tahu tuna untuk oleh-oleh. Cek jam buka dulu.",
+          "day": 2
+        },
+        {
+          "placeId": "6",
+          "note": "Aneka olahan tuna, buka 08:00–21:00.",
+          "day": 2
+        },
+        {
+          "placeId": "8",
+          "note": "Donat besar dengan topping melimpah.",
+          "day": 2
+        }
+      ],
+      "tips": [
+        "Pesan homestay di Watukarung lebih awal saat akhir pekan dan libur panjang (lihat menu Penginapan).",
+        "Isi bensin sebelum meninggalkan kota; SPBU di jalur pantai lebih jarang.",
+        "Cek prakiraan cuaca dan ombak sebelum berangkat."
+      ]
     }
   ]
 }
