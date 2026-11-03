@@ -1,0 +1,8 @@
+name = "ke-pacitan-request"
+main = "request-worker.mjs"
+compatibility_date = "2026-01-01"
+
+[vars]
+GITHUB_REPO = "fikibl8/ke-pacitan-requests"   # disarankan repo PRIVATE (lihat README)
+GITHUB_BRANCH = "main"
+# GITHUB_TOKEN diisi lewat:  npx wrangler secret put GITHUB_TOKEN
