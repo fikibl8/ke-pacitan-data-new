@@ -19,3 +19,10 @@ jadi perubahan muncul tanpa merilis versi baru.
 
 Aplikasi menolak file yang formatnya tidak valid dan memakai data tersimpan, jadi pastikan JSON valid
 (cek di https://jsonlint.com sebelum commit).
+
+## reviews.json
+
+Diisi otomatis oleh GitHub Actions ([workflow](.github/workflows/reviews.yml)) tiap Senin 03:00 WIB, memakai SerpApi
+dan kata kunci `reviewQuery` di `master.json`. Butuh secret repo `SERPAPI_KEY`
+(Settings → Secrets and variables → Actions). Jalankan manual: tab **Actions → Perbarui review Google Maps → Run workflow**.
+Jika hasil pencarian salah tempat, isi `reviewDataId` pada tempat itu di `master.json`.

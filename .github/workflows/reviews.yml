@@ -1,0 +1,30 @@
+name: Perbarui review Google Maps
+
+on:
+  schedule:
+    - cron: '0 20 * * 0' # tiap Minggu 20:00 UTC = Senin 03:00 WIB
+  workflow_dispatch: # tombol "Run workflow" manual
+
+permissions:
+  contents: write
+
+jobs:
+  reviews:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - name: Ambil review
+        env:
+          SERPAPI_KEY: ${{ secrets.SERPAPI_KEY }}
+        run: node scripts/fetch-reviews.mjs
+      - name: Commit bila berubah
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add reviews.json
+          git diff --cached --quiet && echo "Tidak ada perubahan" && exit 0
+          git commit -m "chore: perbarui review Google Maps"
+          git push
