@@ -12,6 +12,7 @@ for (const p of m.places || []) {
   if (ids.has(p.id)) errors.push(`${tag}: id ganda`);
   ids.add(p.id);
   if (!inPacitan(p.lat, p.lng)) errors.push(`${tag}: lat/lng wajib ada dan harus di wilayah Pacitan (dapat ${p.lat}, ${p.lng})`);
+  for (const v of p.youtubeIds || []) if (!/^[\w-]{11}$/.test(v)) errors.push(`${tag}: youtubeId tidak valid: ${v}`);
   if (!(m.categories || []).some((c) => c.id === p.category)) errors.push(`${tag}: kategori "${p.category}" tidak ada di categories`);
   for (const im of p.images || []) if (!/^https?:/.test(im.src) && !existsSync(new URL(im.src, root))) errors.push(`${tag}: berkas foto tidak ada: ${im.src}`);
 }

@@ -1,5 +1,5 @@
 {
-  "version": 12,
+  "version": 13,
   "updatedAt": "2026-11-03",
   "categories": [
     {
@@ -856,6 +856,10 @@
           "credit": "Foto: Risanprasetyo/Febri Ady Prasetyo · CC BY-SA 4.0",
           "source": "https://commons.wikimedia.org/wiki/File:Manik-manik_kuno_di_Museum_Song_Terus.jpg"
         }
+      ],
+      "youtubeIds": [
+        "qYaNa5xSWE8",
+        "mhxleOmqadA"
       ]
     },
     {
@@ -903,6 +907,10 @@
           "credit": "Foto: Mbah Bandono · CC BY-SA 4.0",
           "source": "https://commons.wikimedia.org/wiki/File:Museum_dan_Galeri_SBY-ANI.jpg"
         }
+      ],
+      "youtubeIds": [
+        "67AItZpFtH4",
+        "ncTpW4l0H6U"
       ]
     },
     {
@@ -943,7 +951,11 @@
           "sub": "Kolam Renang"
         }
       ],
-      "tiktokIds": []
+      "tiktokIds": [],
+      "youtubeIds": [
+        "g4a4RIDHj6g",
+        "8kO4aCUBT40"
+      ]
     },
     {
       "id": "16",
@@ -1103,7 +1115,11 @@
           "sub": "Monumen"
         }
       ],
-      "tiktokIds": []
+      "tiktokIds": [],
+      "youtubeIds": [
+        "R2hsrgYm6C8",
+        "Om6ggGQ04_s"
+      ]
     },
     {
       "id": "20",
@@ -1183,7 +1199,11 @@
           "sub": "Tujuan Wisata"
         }
       ],
-      "tiktokIds": []
+      "tiktokIds": [],
+      "youtubeIds": [
+        "hO0IbRJmz24",
+        "kCJGgX2udHY"
+      ]
     },
     {
       "id": "22",
@@ -1263,7 +1283,11 @@
           "sub": "Tujuan Wisata"
         }
       ],
-      "tiktokIds": []
+      "tiktokIds": [],
+      "youtubeIds": [
+        "TXPUBRRYb1E",
+        "TSPugPG8V8I"
+      ]
     },
     {
       "id": "24",
@@ -1343,7 +1367,11 @@
           "sub": "Taman Kota"
         }
       ],
-      "tiktokIds": []
+      "tiktokIds": [],
+      "youtubeIds": [
+        "417a6gfGwHw",
+        "Eb2QyIAkh5A"
+      ]
     },
     {
       "id": "26",
@@ -1430,6 +1458,10 @@
           "credit": "Ilustrasi: Direktorat Jenderal Kekayaan Intelektual - Kementerian Hukum dan HAM Indonesia (domain publik)",
           "source": "https://commons.wikimedia.org/wiki/File:Pertunjukkan_Wayang_Beber.jpg"
         }
+      ],
+      "youtubeIds": [
+        "TU4w-JPf9lM",
+        "QZbUiFIK7dI"
       ]
     },
     {
