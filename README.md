@@ -34,3 +34,17 @@ alamat repo ini di depannya. Tiap foto punya `credit` dan `source` yang ditampil
 Foto saat ini berasal dari Wikimedia Commons (CC BY-SA / CC BY / domain publik); rinciannya ada di [images/CREDITS.md](images/CREDITS.md).
 Tempat tanpa foto otomatis memakai latar gradasi. Jika menambah foto sendiri, ukurannya dikecilkan dulu (±200–300 KB) dan
 isi `credit` (mis. `Foto: nama Anda`).
+
+## Menambah foto sendiri (per tempat)
+
+Tiap tempat wisata dan tiap item Darurat/Pitstop/Penginapan bisa punya foto sendiri (maks. 6, tampil sebagai slider).
+
+```bash
+node scripts/add-photos.mjs --init                          # sekali saja: buat folder foto-baru/<nama-tempat>/
+# salin foto ke folder tempat yang sesuai (jpg, png, heic dari iPhone juga bisa)
+node scripts/add-photos.mjs --credit "Foto: Nama Anda"      # kecilkan, simpan ke images/places/, isi master.json
+git add -A && git commit -m "foto tempat" && git push
+```
+
+Daftar nama folder ada di `foto-baru/DAFTAR.md`. Folder `foto-baru/` berisi foto asli dan tidak ikut di-push (ada di `.gitignore`).
+Menjalankan skrip lagi akan mengganti foto milik sendiri, sedangkan foto dari sumber lain (mis. Wikimedia Commons) tetap dipertahankan.
