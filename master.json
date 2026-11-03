@@ -1,5 +1,5 @@
 {
-  "version": 9,
+  "version": 10,
   "updatedAt": "2026-11-03",
   "categories": [
     {
@@ -25,6 +25,38 @@
     {
       "id": "camping",
       "label": "⛺ Camping"
+    },
+    {
+      "id": "kedai",
+      "label": "☕ Kedai"
+    },
+    {
+      "id": "museum",
+      "label": "🏛️ Museum"
+    },
+    {
+      "id": "airanget",
+      "label": "♨️ Air Panas & Kolam"
+    },
+    {
+      "id": "monumen",
+      "label": "🗿 Monumen"
+    },
+    {
+      "id": "gunung",
+      "label": "🌋 Gunung"
+    },
+    {
+      "id": "alun",
+      "label": "🌳 Alun-alun"
+    },
+    {
+      "id": "budaya",
+      "label": "🎭 Budaya"
+    },
+    {
+      "id": "religi",
+      "label": "🕌 Religi"
     }
   ],
   "heroSlides": [
@@ -168,7 +200,9 @@
         }
       ],
       "lat": -8.22391,
-      "lng": 110.947404
+      "lng": 110.947404,
+      "popular": true,
+      "placeId": "ChIJWzWA1gbdey4RTNY6yaULSFg"
     },
     {
       "id": "2",
@@ -240,7 +274,9 @@
         }
       ],
       "lat": -8.164471,
-      "lng": 110.979859
+      "lng": 110.979859,
+      "popular": true,
+      "placeId": "ChIJAQAAAPBheS4RTtPwY7Ka_xU"
     },
     {
       "id": "3",
@@ -321,7 +357,9 @@
         }
       ],
       "lat": -8.236924,
-      "lng": 110.973212
+      "lng": 110.973212,
+      "popular": true,
+      "placeId": "ChIJ1y-Hlr_dey4ROlrbi8rOknw"
     },
     {
       "id": "4",
@@ -377,7 +415,9 @@
       "reviewQuery": "Tahu Tuna Pak Ran Pacitan",
       "tiktokIds": [],
       "lat": -8.210828,
-      "lng": 111.084691
+      "lng": 111.084691,
+      "popular": true,
+      "placeId": "ChIJ5feAinjfey4RZhH5k35u13A"
     },
     {
       "id": "5",
@@ -442,7 +482,9 @@
         }
       ],
       "lat": -8.246891,
-      "lng": 111.263409
+      "lng": 111.263409,
+      "popular": true,
+      "placeId": "ChIJl9ePso5deS4RM_3VO5NYPZI"
     },
     {
       "colors": [
@@ -493,7 +535,9 @@
         "7410643433993424133"
       ],
       "lat": -8.201898,
-      "lng": 111.099311
+      "lng": 111.099311,
+      "popular": true,
+      "placeId": "ChIJhYKMSddheS4RhHV7ZWwjjV8"
     },
     {
       "colors": [
@@ -545,7 +589,9 @@
         "7561301178538003768"
       ],
       "lat": -8.21512,
-      "lng": 111.079057
+      "lng": 111.079057,
+      "popular": true,
+      "placeId": "ChIJI7i5zrbfey4RHBitdJI6WfA"
     },
     {
       "colors": [
@@ -596,7 +642,955 @@
         "7551262833409805574"
       ],
       "lat": -8.196656,
-      "lng": 111.102129
+      "lng": 111.102129,
+      "popular": true,
+      "placeId": "ChIJFfmERABheS4RCGS0WQP234U"
+    },
+    {
+      "id": "9",
+      "name": "Simbara Coffee and Eatery",
+      "short": "Bar Kopi Espresso",
+      "category": "kedai",
+      "popular": false,
+      "lat": -8.193789,
+      "lng": 111.104126,
+      "placeId": "ChIJK1mJMgBheS4Rw5x2Mz-oTJw",
+      "location": "Lingk Krajan Jl. Jaksa Agung Suprapto No.06, Krajan, Pacitan, Kec. Pacitan",
+      "desc": "Bar Kopi Espresso di Kecamatan Pacitan. Rating 4,8 dari 972 ulasan di Google Maps. Jam buka dan harga bisa berubah, cek langsung ke tempatnya.",
+      "colors": [
+        "#8b5e3c",
+        "#4a2f1b"
+      ],
+      "price": "⭐ 4,8 (972)",
+      "hours": "Cek jam buka",
+      "costs": [
+        [
+          "Harga / Tiket",
+          "Cek di lokasi"
+        ],
+        [
+          "Jam Buka",
+          "Cek di lokasi"
+        ]
+      ],
+      "tags": [
+        "☕ Kedai Kopi",
+        "📍 Kec. Pacitan"
+      ],
+      "facilities": [],
+      "views": [
+        {
+          "name": "Simbara Coffee and Eatery",
+          "sub": "Bar Kopi Espresso"
+        }
+      ],
+      "tiktokIds": []
+    },
+    {
+      "id": "10",
+      "name": "KIPOKOPI Space & Beverage",
+      "short": "Kedai Kopi",
+      "category": "kedai",
+      "popular": false,
+      "lat": -8.208687,
+      "lng": 111.092937,
+      "placeId": "ChIJR6fgVTHfey4RMG6XnFtJP_s",
+      "location": "Jalan Lintas Selatan, Ngampel, Ploso, Kec. Pacitan",
+      "desc": "Kedai Kopi di Kecamatan Pacitan. Rating 4,4 dari 542 ulasan di Google Maps. Jam buka dan harga bisa berubah, cek langsung ke tempatnya.",
+      "colors": [
+        "#8b5e3c",
+        "#4a2f1b"
+      ],
+      "price": "⭐ 4,4 (542)",
+      "hours": "Cek jam buka",
+      "costs": [
+        [
+          "Harga / Tiket",
+          "Cek di lokasi"
+        ],
+        [
+          "Jam Buka",
+          "Cek di lokasi"
+        ]
+      ],
+      "tags": [
+        "☕ Kedai Kopi",
+        "📍 Kec. Pacitan"
+      ],
+      "facilities": [],
+      "views": [
+        {
+          "name": "KIPOKOPI Space & Beverage",
+          "sub": "Kedai Kopi"
+        }
+      ],
+      "tiktokIds": []
+    },
+    {
+      "id": "11",
+      "name": "LEVIDE",
+      "short": "Kedai Kopi",
+      "category": "kedai",
+      "popular": false,
+      "lat": -8.192743,
+      "lng": 111.099925,
+      "placeId": "ChIJX_ZTRQBheS4RNJvHYR3LuK8",
+      "location": "Jl. Hos Cokroaminoto No.26, Palihan, Pucangsewu, Kec. Pacitan",
+      "desc": "Kedai Kopi di Kecamatan Pacitan. Rating 4,9 dari 181 ulasan di Google Maps. Jam buka dan harga bisa berubah, cek langsung ke tempatnya.",
+      "colors": [
+        "#8b5e3c",
+        "#4a2f1b"
+      ],
+      "price": "⭐ 4,9 (181)",
+      "hours": "Cek jam buka",
+      "costs": [
+        [
+          "Harga / Tiket",
+          "Cek di lokasi"
+        ],
+        [
+          "Jam Buka",
+          "Cek di lokasi"
+        ]
+      ],
+      "tags": [
+        "☕ Kedai Kopi",
+        "📍 Kec. Pacitan"
+      ],
+      "facilities": [],
+      "views": [
+        {
+          "name": "LEVIDE",
+          "sub": "Kedai Kopi"
+        }
+      ],
+      "tiktokIds": []
+    },
+    {
+      "id": "12",
+      "name": "Fhillbrew Coffee",
+      "short": "Kedai Kopi",
+      "category": "kedai",
+      "popular": false,
+      "lat": -8.195951,
+      "lng": 111.084395,
+      "placeId": "ChIJH684zxvfey4RT33qGIAAlt4",
+      "location": "Jl. Yos Sudarso No.36, Krajan, Bangunsari, Kec. Pacitan",
+      "desc": "Kedai Kopi di Kecamatan Pacitan. Rating 4,9 dari 205 ulasan di Google Maps. Jam buka dan harga bisa berubah, cek langsung ke tempatnya.",
+      "colors": [
+        "#8b5e3c",
+        "#4a2f1b"
+      ],
+      "price": "⭐ 4,9 (205)",
+      "hours": "Cek jam buka",
+      "costs": [
+        [
+          "Harga / Tiket",
+          "Cek di lokasi"
+        ],
+        [
+          "Jam Buka",
+          "Cek di lokasi"
+        ]
+      ],
+      "tags": [
+        "☕ Kedai Kopi",
+        "📍 Kec. Pacitan"
+      ],
+      "facilities": [],
+      "views": [
+        {
+          "name": "Fhillbrew Coffee",
+          "sub": "Kedai Kopi"
+        }
+      ],
+      "tiktokIds": []
+    },
+    {
+      "id": "13",
+      "name": "Museum Song Terus",
+      "short": "Museum arkeologi",
+      "category": "museum",
+      "popular": false,
+      "lat": -8.129023,
+      "lng": 110.983376,
+      "placeId": "ChIJ-3S4XhLbey4RHfUBYW6VJwk",
+      "location": "Jl. Goa Song Terus, Weru, Wareng, Kec. Punung",
+      "desc": "Museum arkeologi di Kecamatan Punung. Rating 4,8 dari 418 ulasan di Google Maps. Jam buka dan harga bisa berubah, cek langsung ke tempatnya.",
+      "colors": [
+        "#5b6ea8",
+        "#2c3a6b"
+      ],
+      "price": "⭐ 4,8 (418)",
+      "hours": "Cek jam buka",
+      "costs": [
+        [
+          "Harga / Tiket",
+          "Cek di lokasi"
+        ],
+        [
+          "Jam Buka",
+          "Cek di lokasi"
+        ]
+      ],
+      "tags": [
+        "🏛️ Museum",
+        "📍 Kec. Punung"
+      ],
+      "facilities": [],
+      "views": [
+        {
+          "name": "Museum Song Terus",
+          "sub": "Museum arkeologi"
+        }
+      ],
+      "tiktokIds": [],
+      "images": [
+        {
+          "src": "images/13-1.jpg",
+          "credit": "Foto: Risanprasetyo/Febri Ady Prasetyo · CC BY-SA 4.0",
+          "source": "https://commons.wikimedia.org/wiki/File:Kapak_penetak_di_Museum_Song_Terus.jpg"
+        },
+        {
+          "src": "images/13-2.jpg",
+          "credit": "Foto: Risanprasetyo/Febri Ady Prasetyo · CC BY-SA 4.0",
+          "source": "https://commons.wikimedia.org/wiki/File:Manik-manik_kuno_di_Museum_Song_Terus.jpg"
+        }
+      ]
+    },
+    {
+      "id": "14",
+      "name": "Museum dan Galeri SBY-ANI",
+      "short": "Museum",
+      "category": "museum",
+      "popular": false,
+      "lat": -8.209799,
+      "lng": 111.09296,
+      "placeId": "ChIJ2flRRdnfey4RXMKZfjxf_sc",
+      "location": "Ngampel, Ploso, Kec. Pacitan",
+      "desc": "Museum di Kecamatan Pacitan. Rating 4,7 dari 1320 ulasan di Google Maps. Jam buka dan harga bisa berubah, cek langsung ke tempatnya.",
+      "colors": [
+        "#5b6ea8",
+        "#2c3a6b"
+      ],
+      "price": "⭐ 4,7 (1320)",
+      "hours": "Cek jam buka",
+      "costs": [
+        [
+          "Harga / Tiket",
+          "Cek di lokasi"
+        ],
+        [
+          "Jam Buka",
+          "Cek di lokasi"
+        ]
+      ],
+      "tags": [
+        "🏛️ Museum",
+        "📍 Kec. Pacitan"
+      ],
+      "facilities": [],
+      "views": [
+        {
+          "name": "Museum dan Galeri SBY-ANI",
+          "sub": "Museum"
+        }
+      ],
+      "tiktokIds": [],
+      "images": [
+        {
+          "src": "images/14-1.jpg",
+          "credit": "Foto: Mbah Bandono · CC BY-SA 4.0",
+          "source": "https://commons.wikimedia.org/wiki/File:Museum_dan_Galeri_SBY-ANI.jpg"
+        }
+      ]
+    },
+    {
+      "id": "15",
+      "name": "Banyu Anget Tirto Husodo",
+      "short": "Kolam Renang",
+      "category": "airanget",
+      "popular": false,
+      "lat": -8.090919,
+      "lng": 111.131253,
+      "placeId": "ChIJGR3n9dFieS4RdjHKpKTb9Cg",
+      "location": "Jalan Arjosari-Banyu Anget, Krajan Karangrejo, Arjosari, Krajan, Karangrejo, Kec. Arjosari",
+      "desc": "Kolam Renang di Kecamatan Arjosari. Rating 4,3 dari 1985 ulasan di Google Maps. Jam buka dan harga bisa berubah, cek langsung ke tempatnya.",
+      "colors": [
+        "#2aa5b3",
+        "#0e5a66"
+      ],
+      "price": "⭐ 4,3 (1985)",
+      "hours": "Cek jam buka",
+      "costs": [
+        [
+          "Harga / Tiket",
+          "Cek di lokasi"
+        ],
+        [
+          "Jam Buka",
+          "Cek di lokasi"
+        ]
+      ],
+      "tags": [
+        "♨️ Air & Kolam",
+        "📍 Kec. Arjosari"
+      ],
+      "facilities": [],
+      "views": [
+        {
+          "name": "Banyu Anget Tirto Husodo",
+          "sub": "Kolam Renang"
+        }
+      ],
+      "tiktokIds": []
+    },
+    {
+      "id": "16",
+      "name": "Kolam Renang Jaten Garden",
+      "short": "Kolam Renang",
+      "category": "airanget",
+      "popular": false,
+      "lat": -8.209103,
+      "lng": 111.074986,
+      "placeId": "ChIJybSWOnTfey4RJLqsgEi9AL4",
+      "location": "Jaten, Sidoharjo, Pacitan",
+      "desc": "Kolam Renang di Pacitan. Rating 4,4 dari 349 ulasan di Google Maps. Jam buka dan harga bisa berubah, cek langsung ke tempatnya.",
+      "colors": [
+        "#2aa5b3",
+        "#0e5a66"
+      ],
+      "price": "⭐ 4,4 (349)",
+      "hours": "Cek jam buka",
+      "costs": [
+        [
+          "Harga / Tiket",
+          "Cek di lokasi"
+        ],
+        [
+          "Jam Buka",
+          "Cek di lokasi"
+        ]
+      ],
+      "tags": [
+        "♨️ Air & Kolam",
+        "📍 Pacitan"
+      ],
+      "facilities": [],
+      "views": [
+        {
+          "name": "Kolam Renang Jaten Garden",
+          "sub": "Kolam Renang"
+        }
+      ],
+      "tiktokIds": []
+    },
+    {
+      "id": "17",
+      "name": "Kolam Renang Mina Barata",
+      "short": "Kolam Renang Umum",
+      "category": "airanget",
+      "popular": false,
+      "lat": -8.194834,
+      "lng": 111.079132,
+      "placeId": "ChIJ4QNC42jfey4Rmnyw3dM-uRo",
+      "location": "Sundeng, Bangunsari, Kec. Pacitan",
+      "desc": "Kolam Renang Umum di Kecamatan Pacitan. Rating 4,1 dari 163 ulasan di Google Maps. Jam buka dan harga bisa berubah, cek langsung ke tempatnya.",
+      "colors": [
+        "#2aa5b3",
+        "#0e5a66"
+      ],
+      "price": "⭐ 4,1 (163)",
+      "hours": "Cek jam buka",
+      "costs": [
+        [
+          "Harga / Tiket",
+          "Cek di lokasi"
+        ],
+        [
+          "Jam Buka",
+          "Cek di lokasi"
+        ]
+      ],
+      "tags": [
+        "♨️ Air & Kolam",
+        "📍 Kec. Pacitan"
+      ],
+      "facilities": [],
+      "views": [
+        {
+          "name": "Kolam Renang Mina Barata",
+          "sub": "Kolam Renang Umum"
+        }
+      ],
+      "tiktokIds": []
+    },
+    {
+      "id": "18",
+      "name": "Water Boom Punung",
+      "short": "Kolam Renang",
+      "category": "airanget",
+      "popular": false,
+      "lat": -8.137719,
+      "lng": 111.018124,
+      "placeId": "ChIJafYLwKPZey4RFCmJu05MjcY",
+      "location": "Jl. Nasional III, Punung, Kec. Punung",
+      "desc": "Kolam Renang di Kecamatan Punung. Rating 4,2 dari 46 ulasan di Google Maps. Jam buka dan harga bisa berubah, cek langsung ke tempatnya.",
+      "colors": [
+        "#2aa5b3",
+        "#0e5a66"
+      ],
+      "price": "⭐ 4,2 (46)",
+      "hours": "Cek jam buka",
+      "costs": [
+        [
+          "Harga / Tiket",
+          "Cek di lokasi"
+        ],
+        [
+          "Jam Buka",
+          "Cek di lokasi"
+        ]
+      ],
+      "tags": [
+        "♨️ Air & Kolam",
+        "📍 Kec. Punung"
+      ],
+      "facilities": [],
+      "views": [
+        {
+          "name": "Water Boom Punung",
+          "sub": "Kolam Renang"
+        }
+      ],
+      "tiktokIds": []
+    },
+    {
+      "id": "19",
+      "name": "Monumen Jenderal Sudirman Pakis Baru",
+      "short": "Monumen",
+      "category": "monumen",
+      "popular": false,
+      "lat": -7.939072,
+      "lng": 111.181496,
+      "placeId": "ChIJDz7vKTZ_eS4RL0QKO_T865Q",
+      "location": "Menur, Pakisbaru, Kec. Nawangan",
+      "desc": "Monumen di Kecamatan Nawangan. Rating 4,5 dari 1341 ulasan di Google Maps. Jam buka dan harga bisa berubah, cek langsung ke tempatnya.",
+      "colors": [
+        "#7a7f87",
+        "#3b3f46"
+      ],
+      "price": "⭐ 4,5 (1341)",
+      "hours": "Cek jam buka",
+      "costs": [
+        [
+          "Harga / Tiket",
+          "Cek di lokasi"
+        ],
+        [
+          "Jam Buka",
+          "Cek di lokasi"
+        ]
+      ],
+      "tags": [
+        "🗿 Monumen",
+        "📍 Kec. Nawangan"
+      ],
+      "facilities": [],
+      "views": [
+        {
+          "name": "Monumen Jenderal Sudirman Pakis Baru",
+          "sub": "Monumen"
+        }
+      ],
+      "tiktokIds": []
+    },
+    {
+      "id": "20",
+      "name": "Monumen Panglima Besar Jenderal Soedirman",
+      "short": "Museum",
+      "category": "monumen",
+      "popular": false,
+      "lat": -8.153485,
+      "lng": 111.356554,
+      "placeId": "ChIJ1TZLAylveS4Rzh-kG7NZ9-8",
+      "location": "Krajan, Wonokarto, Kec. Ngadirojo",
+      "desc": "Museum di Kecamatan Ngadirojo. Rating 4,5 dari 20 ulasan di Google Maps. Jam buka dan harga bisa berubah, cek langsung ke tempatnya.",
+      "colors": [
+        "#7a7f87",
+        "#3b3f46"
+      ],
+      "price": "⭐ 4,5 (20)",
+      "hours": "Cek jam buka",
+      "costs": [
+        [
+          "Harga / Tiket",
+          "Cek di lokasi"
+        ],
+        [
+          "Jam Buka",
+          "Cek di lokasi"
+        ]
+      ],
+      "tags": [
+        "🗿 Monumen",
+        "📍 Kec. Ngadirojo"
+      ],
+      "facilities": [],
+      "views": [
+        {
+          "name": "Monumen Panglima Besar Jenderal Soedirman",
+          "sub": "Museum"
+        }
+      ],
+      "tiktokIds": []
+    },
+    {
+      "id": "21",
+      "name": "Gunung Lanang Pacitan",
+      "short": "Tujuan Wisata",
+      "category": "gunung",
+      "popular": false,
+      "lat": -8.199073,
+      "lng": 111.176561,
+      "placeId": "ChIJBXzCMjdneS4RwYNhW74pfnA",
+      "location": "Dusun Ketro, Punjung, Kec. Kebonagung",
+      "desc": "Tujuan Wisata di Kecamatan Kebonagung. Rating 4,7 dari 83 ulasan di Google Maps. Jam buka dan harga bisa berubah, cek langsung ke tempatnya.",
+      "colors": [
+        "#4f8a4b",
+        "#244d24"
+      ],
+      "price": "⭐ 4,7 (83)",
+      "hours": "Cek jam buka",
+      "costs": [
+        [
+          "Harga / Tiket",
+          "Cek di lokasi"
+        ],
+        [
+          "Jam Buka",
+          "Cek di lokasi"
+        ]
+      ],
+      "tags": [
+        "🌋 Gunung & Bukit",
+        "📍 Kec. Kebonagung"
+      ],
+      "facilities": [],
+      "views": [
+        {
+          "name": "Gunung Lanang Pacitan",
+          "sub": "Tujuan Wisata"
+        }
+      ],
+      "tiktokIds": []
+    },
+    {
+      "id": "22",
+      "name": "Gunung Tompe",
+      "short": "Puncak Gunung",
+      "category": "gunung",
+      "popular": false,
+      "lat": -8.108611,
+      "lng": 111.093056,
+      "placeId": "ChIJO1MRUnXYey4Rz3Lpaz5TBDA",
+      "location": "Tumpak, Tamanasri, Kec. Pringkuku",
+      "desc": "Puncak Gunung di Kecamatan Pringkuku. Rating 4,7 dari 40 ulasan di Google Maps. Jam buka dan harga bisa berubah, cek langsung ke tempatnya.",
+      "colors": [
+        "#4f8a4b",
+        "#244d24"
+      ],
+      "price": "⭐ 4,7 (40)",
+      "hours": "Cek jam buka",
+      "costs": [
+        [
+          "Harga / Tiket",
+          "Cek di lokasi"
+        ],
+        [
+          "Jam Buka",
+          "Cek di lokasi"
+        ]
+      ],
+      "tags": [
+        "🌋 Gunung & Bukit",
+        "📍 Kec. Pringkuku"
+      ],
+      "facilities": [],
+      "views": [
+        {
+          "name": "Gunung Tompe",
+          "sub": "Puncak Gunung"
+        }
+      ],
+      "tiktokIds": []
+    },
+    {
+      "id": "23",
+      "name": "Bukit Bintang Wonogondo",
+      "short": "Tujuan Wisata",
+      "category": "gunung",
+      "popular": false,
+      "lat": -8.180358,
+      "lng": 111.156806,
+      "placeId": "ChIJ29Pm8G5heS4R-sWfaPDLjUY",
+      "location": "-Lorok, Jl. Pacitan - Lorok, Kedung Dowo, Wonogondo, Kec. Kebonagung",
+      "desc": "Tujuan Wisata di Kecamatan Kebonagung. Rating 4,5 dari 163 ulasan di Google Maps. Jam buka dan harga bisa berubah, cek langsung ke tempatnya.",
+      "colors": [
+        "#4f8a4b",
+        "#244d24"
+      ],
+      "price": "⭐ 4,5 (163)",
+      "hours": "Cek jam buka",
+      "costs": [
+        [
+          "Harga / Tiket",
+          "Cek di lokasi"
+        ],
+        [
+          "Jam Buka",
+          "Cek di lokasi"
+        ]
+      ],
+      "tags": [
+        "🌋 Gunung & Bukit",
+        "📍 Kec. Kebonagung"
+      ],
+      "facilities": [],
+      "views": [
+        {
+          "name": "Bukit Bintang Wonogondo",
+          "sub": "Tujuan Wisata"
+        }
+      ],
+      "tiktokIds": []
+    },
+    {
+      "id": "24",
+      "name": "Puncak Pinus Taman Asri",
+      "short": "Hutan Nasional",
+      "category": "gunung",
+      "popular": false,
+      "lat": -8.11193,
+      "lng": 111.093567,
+      "placeId": "ChIJoSw0inXYey4RycbA5dToMpU",
+      "location": "Unnamed Road, Tumpak, Tamanasri, Kec. Pringkuku",
+      "desc": "Hutan Nasional di Kecamatan Pringkuku. Rating 4,4 dari 39 ulasan di Google Maps. Jam buka dan harga bisa berubah, cek langsung ke tempatnya.",
+      "colors": [
+        "#4f8a4b",
+        "#244d24"
+      ],
+      "price": "⭐ 4,4 (39)",
+      "hours": "Cek jam buka",
+      "costs": [
+        [
+          "Harga / Tiket",
+          "Cek di lokasi"
+        ],
+        [
+          "Jam Buka",
+          "Cek di lokasi"
+        ]
+      ],
+      "tags": [
+        "🌋 Gunung & Bukit",
+        "📍 Kec. Pringkuku"
+      ],
+      "facilities": [],
+      "views": [
+        {
+          "name": "Puncak Pinus Taman Asri",
+          "sub": "Hutan Nasional"
+        }
+      ],
+      "tiktokIds": []
+    },
+    {
+      "id": "25",
+      "name": "Alun-Alun Pacitan",
+      "short": "Taman Kota",
+      "category": "alun",
+      "popular": false,
+      "lat": -8.194747,
+      "lng": 111.1032,
+      "placeId": "ChIJe4PRhdxheS4RJIQ8AECb8QM",
+      "location": "Jl. Sugiyo Pranoto No.1, Krajan, Kec. Pacitan",
+      "desc": "Taman Kota di Kecamatan Pacitan. Rating 4,5 dari 11782 ulasan di Google Maps. Jam buka dan harga bisa berubah, cek langsung ke tempatnya.",
+      "colors": [
+        "#5aa86b",
+        "#2c6a3d"
+      ],
+      "price": "⭐ 4,5 (11782)",
+      "hours": "Cek jam buka",
+      "costs": [
+        [
+          "Harga / Tiket",
+          "Cek di lokasi"
+        ],
+        [
+          "Jam Buka",
+          "Cek di lokasi"
+        ]
+      ],
+      "tags": [
+        "🌳 Ruang Publik",
+        "📍 Kec. Pacitan"
+      ],
+      "facilities": [],
+      "views": [
+        {
+          "name": "Alun-Alun Pacitan",
+          "sub": "Taman Kota"
+        }
+      ],
+      "tiktokIds": []
+    },
+    {
+      "id": "26",
+      "name": "KM 0 Pacitan",
+      "short": "Taman",
+      "category": "alun",
+      "popular": false,
+      "lat": -8.195596,
+      "lng": 111.103122,
+      "placeId": "ChIJPVRkfNtheS4RjwuHYKpuVVs",
+      "location": "Jl. Jend. A. Yani, Krajan, Pacitan, Kec. Pacitan",
+      "desc": "Taman di Kecamatan Pacitan. Rating 4,7 dari 99 ulasan di Google Maps. Jam buka dan harga bisa berubah, cek langsung ke tempatnya.",
+      "colors": [
+        "#5aa86b",
+        "#2c6a3d"
+      ],
+      "price": "⭐ 4,7 (99)",
+      "hours": "Cek jam buka",
+      "costs": [
+        [
+          "Harga / Tiket",
+          "Cek di lokasi"
+        ],
+        [
+          "Jam Buka",
+          "Cek di lokasi"
+        ]
+      ],
+      "tags": [
+        "🌳 Ruang Publik",
+        "📍 Kec. Pacitan"
+      ],
+      "facilities": [],
+      "views": [
+        {
+          "name": "KM 0 Pacitan",
+          "sub": "Taman"
+        }
+      ],
+      "tiktokIds": []
+    },
+    {
+      "id": "27",
+      "name": "Sanggar Wayang Beber",
+      "short": "Museum Seni",
+      "category": "budaya",
+      "popular": false,
+      "lat": -8.153656,
+      "lng": 110.904883,
+      "placeId": "ChIJlW7UcyHbey4RCifNcxnRFbc",
+      "location": "Karangtalun, Gedompol, Kec. Donorojo",
+      "desc": "Museum Seni di Kecamatan Donorojo. Rating 4,8 dari 5 ulasan di Google Maps. Jam buka dan harga bisa berubah, cek langsung ke tempatnya.",
+      "colors": [
+        "#b4568a",
+        "#6a2650"
+      ],
+      "price": "⭐ 4,8 (5)",
+      "hours": "Cek jam buka",
+      "costs": [
+        [
+          "Harga / Tiket",
+          "Cek di lokasi"
+        ],
+        [
+          "Jam Buka",
+          "Cek di lokasi"
+        ]
+      ],
+      "tags": [
+        "🎭 Budaya",
+        "📍 Kec. Donorojo"
+      ],
+      "facilities": [],
+      "views": [
+        {
+          "name": "Sanggar Wayang Beber",
+          "sub": "Museum Seni"
+        }
+      ],
+      "tiktokIds": [],
+      "images": [
+        {
+          "src": "images/27-1.jpg",
+          "credit": "Ilustrasi: Direktorat Jenderal Kekayaan Intelektual - Kementerian Hukum dan HAM Indonesia (domain publik)",
+          "source": "https://commons.wikimedia.org/wiki/File:Pertunjukkan_Wayang_Beber.jpg"
+        }
+      ]
+    },
+    {
+      "id": "28",
+      "name": "Sanggar Gage Penariku",
+      "short": "Grup Tari",
+      "category": "budaya",
+      "popular": false,
+      "lat": -8.182424,
+      "lng": 111.095355,
+      "placeId": "ChIJg17gT-dheS4RUB2q7lUxlik",
+      "location": "Tukluk, Pucangsewu, Pacitan",
+      "desc": "Grup Tari di Pacitan. Rating 4,4 dari 11 ulasan di Google Maps. Jam buka dan harga bisa berubah, cek langsung ke tempatnya.",
+      "colors": [
+        "#b4568a",
+        "#6a2650"
+      ],
+      "price": "⭐ 4,4 (11)",
+      "hours": "Cek jam buka",
+      "costs": [
+        [
+          "Harga / Tiket",
+          "Cek di lokasi"
+        ],
+        [
+          "Jam Buka",
+          "Cek di lokasi"
+        ]
+      ],
+      "tags": [
+        "🎭 Budaya",
+        "📍 Pacitan"
+      ],
+      "facilities": [],
+      "views": [
+        {
+          "name": "Sanggar Gage Penariku",
+          "sub": "Grup Tari"
+        }
+      ],
+      "tiktokIds": []
+    },
+    {
+      "id": "29",
+      "name": "Masjid Agung Darul Falah Pacitan",
+      "short": "Masjid",
+      "category": "religi",
+      "popular": false,
+      "lat": -8.194256,
+      "lng": 111.101595,
+      "placeId": "ChIJazKMYdxheS4RC06OdiP-hO0",
+      "location": "Jl. T. Imam Bonjol, Krajan, Pacitan, Kec. Pacitan",
+      "desc": "Masjid di Kecamatan Pacitan. Rating 4,8 dari 1733 ulasan di Google Maps. Jam buka dan harga bisa berubah, cek langsung ke tempatnya.",
+      "colors": [
+        "#3f8f8a",
+        "#1d4f4c"
+      ],
+      "price": "⭐ 4,8 (1733)",
+      "hours": "Cek jam buka",
+      "costs": [
+        [
+          "Harga / Tiket",
+          "Cek di lokasi"
+        ],
+        [
+          "Jam Buka",
+          "Cek di lokasi"
+        ]
+      ],
+      "tags": [
+        "🕌 Religi",
+        "📍 Kec. Pacitan"
+      ],
+      "facilities": [],
+      "views": [
+        {
+          "name": "Masjid Agung Darul Falah Pacitan",
+          "sub": "Masjid"
+        }
+      ],
+      "tiktokIds": []
+    },
+    {
+      "id": "30",
+      "name": "Makam Mbah Umar Tumbu (KH. Umar Syahid)",
+      "short": "Tempat Ziarah",
+      "category": "religi",
+      "popular": false,
+      "lat": -8.103373,
+      "lng": 110.999837,
+      "placeId": "ChIJx7Rc4lnZey4ReE1Lc9DS-fc",
+      "location": "Jajar, Donorojo, Kec. Donorojo",
+      "desc": "Tempat Ziarah di Kecamatan Donorojo. Rating 5 dari 13 ulasan di Google Maps. Jam buka dan harga bisa berubah, cek langsung ke tempatnya.",
+      "colors": [
+        "#3f8f8a",
+        "#1d4f4c"
+      ],
+      "price": "⭐ 5 (13)",
+      "hours": "Cek jam buka",
+      "costs": [
+        [
+          "Harga / Tiket",
+          "Cek di lokasi"
+        ],
+        [
+          "Jam Buka",
+          "Cek di lokasi"
+        ]
+      ],
+      "tags": [
+        "🕌 Religi",
+        "📍 Kec. Donorojo"
+      ],
+      "facilities": [],
+      "views": [
+        {
+          "name": "Makam Mbah Umar Tumbu (KH. Umar Syahid)",
+          "sub": "Tempat Ziarah"
+        }
+      ],
+      "tiktokIds": []
+    },
+    {
+      "id": "31",
+      "name": "Makam Ki Ageng Buwana Keling",
+      "short": "Tempat Ziarah",
+      "category": "religi",
+      "popular": false,
+      "lat": -8.215372,
+      "lng": 111.151019,
+      "placeId": "ChIJo546i3xheS4RV1FvtYtQWiA",
+      "location": "Jati, Purwoasri, Kec. Kebonagung",
+      "desc": "Tempat Ziarah di Kecamatan Kebonagung. Rating 5 dari 3 ulasan di Google Maps. Jam buka dan harga bisa berubah, cek langsung ke tempatnya.",
+      "colors": [
+        "#3f8f8a",
+        "#1d4f4c"
+      ],
+      "price": "⭐ 5 (3)",
+      "hours": "Cek jam buka",
+      "costs": [
+        [
+          "Harga / Tiket",
+          "Cek di lokasi"
+        ],
+        [
+          "Jam Buka",
+          "Cek di lokasi"
+        ]
+      ],
+      "tags": [
+        "🕌 Religi",
+        "📍 Kec. Kebonagung"
+      ],
+      "facilities": [],
+      "views": [
+        {
+          "name": "Makam Ki Ageng Buwana Keling",
+          "sub": "Tempat Ziarah"
+        }
+      ],
+      "tiktokIds": []
     }
   ],
   "services": [
