@@ -1,5 +1,5 @@
 {
-  "version": 5,
+  "version": 6,
   "updatedAt": "2026-11-03",
   "categories": [
     {
@@ -93,7 +93,6 @@
       "name": "Pantai Klayar",
       "short": "Seruling Samudra",
       "category": "wisata",
-      "distance": "1.2 km",
       "location": "Kalak, Donorejo",
       "desc": "Pantai dengan seruling samudra ikonik & tebing karang raksasa.",
       "colors": [
@@ -167,14 +166,15 @@
           "credit": "Foto: Crisco 1492 · CC BY-SA 3.0",
           "source": "https://commons.wikimedia.org/wiki/File:Klayar_Beach,_Pacitan,_East_Java_01.jpg"
         }
-      ]
+      ],
+      "lat": -8.22391,
+      "lng": 110.947404
     },
     {
       "id": "2",
       "name": "Gua Gong Pacitan",
       "short": "Gua Terindah Asia",
       "category": "wisata",
-      "distance": "2.8 km",
       "location": "Bomo, Punung",
       "desc": "Gua dengan stalaktit & stalagmit megah, dijuluki gua terindah se-Asia Tenggara.",
       "colors": [
@@ -238,14 +238,15 @@
           "credit": "Foto: Pemkab Pacitan (domain publik)",
           "source": "https://commons.wikimedia.org/wiki/File:Gua_Gong_Pacitan.jpg"
         }
-      ]
+      ],
+      "lat": -8.164471,
+      "lng": 110.979859
     },
     {
       "id": "3",
       "name": "Pantai Watukarung",
       "short": "Camping & Surfing",
       "category": "camping",
-      "distance": "4.5 km",
       "location": "Watukarung, Pringkuku",
       "desc": "Spot camping tepi pantai populer dengan ombak kelas dunia.",
       "colors": [
@@ -318,14 +319,15 @@
           "credit": "Foto: Humboldt · CC BY-SA 4.0",
           "source": "https://commons.wikimedia.org/wiki/File:Watukarung_Beach_9.jpg"
         }
-      ]
+      ],
+      "lat": -8.236924,
+      "lng": 110.973212
     },
     {
       "id": "4",
       "name": "Tahu Tuna Pak Ran",
       "short": "Kuliner Khas",
       "category": "kuliner",
-      "distance": "0.8 km",
       "location": "Jl. Pacitan-Solo, Sidoharjo",
       "desc": "Kuliner khas olahan tahu isi daging tuna segar Pacitan.",
       "colors": [
@@ -373,65 +375,55 @@
         }
       ],
       "reviewQuery": "Tahu Tuna Pak Ran Pacitan",
-      "tiktokIds": []
+      "tiktokIds": [],
+      "lat": -8.210828,
+      "lng": 111.084691
     },
     {
       "id": "5",
-      "name": "Pitstop SPBU & Rest Area JLS",
-      "short": "SPBU 24 Jam",
+      "name": "SPBU Soge (Jalur JLS)",
+      "short": "SPBU di Jalur JLS",
       "category": "pitstop",
-      "distance": "3.1 km",
-      "location": "JLS Pacitan Km 12",
-      "desc": "Pos istirahat siaga utama pemotor dan overland di jalur JLS.",
+      "location": "Jl. Jalur Lintas Selatan, Soge, Ngadirojo",
+      "desc": "SPBU Pertamina di jalur JLS dekat Pantai Soge. Titik isi bensin penting sebelum menyusuri jalur pesisir selatan.",
       "colors": [
         "#c0463a",
         "#6e1f1a"
       ],
-      "price": "Gratis",
-      "hours": "Buka 24 Jam",
+      "price": "Akses umum",
+      "hours": "Cek di lokasi",
       "costs": [
         [
-          "HTM Masuk",
-          "Gratis"
-        ],
-        [
-          "Parkir Motor",
-          "Free"
-        ],
-        [
-          "Parkir Mobil",
-          "Free"
+          "Akses",
+          "Umum (SPBU)"
         ],
         [
           "Jam Buka",
-          "24 Jam Siaga"
+          "Cek di lokasi"
         ]
       ],
       "tags": [
-        "⛽ Pertamax/Dex",
-        "🛠️ Angin/Tambal",
-        "🏧 ATM",
-        "🕌 Musala"
+        "⛽ BBM Pertamina",
+        "🛣️ Jalur JLS"
       ],
       "facilities": [
-        "Musala & Toilet",
-        "Akses Bus"
+        "SPBU"
       ],
       "views": [
         {
-          "name": "Pitstop SPBU JLS",
-          "sub": "Buka 24 Jam"
+          "name": "SPBU Soge",
+          "sub": "Jalur JLS"
         },
         {
-          "name": "Rest Area",
-          "sub": "Istirahat"
+          "name": "Pantai Soge",
+          "sub": "Dekat SPBU"
         },
         {
-          "name": "Bengkel Siaga",
-          "sub": "Tambal & Angin"
+          "name": "Jalur JLS",
+          "sub": "Pesisir Selatan"
         }
       ],
-      "reviewQuery": "SPBU JLS Pringkuku Pacitan",
+      "reviewQuery": "SPBU Pertamina 54.635.07 Soge",
       "tiktokIds": [
         "7445620813656526085"
       ],
@@ -448,7 +440,9 @@
           "source": "https://commons.wikimedia.org/wiki/File:Pantai_Soge_Di_Lihat_Dari_Jembatan_Soge_-_panoramio.jpg",
           "caption": "Pantai Soge, di jalur JLS"
         }
-      ]
+      ],
+      "lat": -8.246891,
+      "lng": 111.263409
     },
     {
       "colors": [
@@ -462,7 +456,6 @@
       "name": "Samudra Asri",
       "short": "Tahu Tuna Khas Pacitan",
       "category": "oleholeh",
-      "distance": "1.9 km",
       "location": "Jl. Letjend MT. Haryono No.72, Ploso",
       "desc": "Pusat oleh-oleh olahan tuna khas Pacitan dalam berbagai varian, termasuk tahu tuna.",
       "price": "Mulai Rp 8.000",
@@ -498,7 +491,9 @@
       "reviewQuery": "Samudra Asri tahu tuna Pacitan",
       "tiktokIds": [
         "7410643433993424133"
-      ]
+      ],
+      "lat": -8.201898,
+      "lng": 111.099311
     },
     {
       "colors": [
@@ -512,8 +507,7 @@
       "name": "Ikan Goreng Bu Yani",
       "short": "Ikan Goreng Khas",
       "category": "oleholeh",
-      "distance": "2.2 km",
-      "location": "Sekitar Pantai Teleng Ria",
+      "location": "Jl. WR. Supratman No.21, Sidoharjo",
       "desc": "Ikan goreng khas Pacitan yang jadi incaran wisatawan untuk dibawa pulang, dekat Pantai Teleng Ria.",
       "price": "Bervariasi",
       "hours": "Cek di lokasi",
@@ -549,7 +543,9 @@
       "tiktokIds": [
         "7466386131626544390",
         "7561301178538003768"
-      ]
+      ],
+      "lat": -8.21512,
+      "lng": 111.079057
     },
     {
       "colors": [
@@ -563,8 +559,7 @@
       "name": "Oghut Donat Pacitan",
       "short": "Donat Oleh-oleh",
       "category": "oleholeh",
-      "distance": "1.6 km",
-      "location": "Baleharjo, Pacitan",
+      "location": "Jl. AES Nasution Link No.09, Baleharjo",
       "desc": "Donat berukuran besar dengan topping melimpah, populer sebagai oleh-oleh dari Pacitan.",
       "price": "Bervariasi",
       "hours": "Cek di lokasi",
@@ -599,7 +594,9 @@
       "reviewQuery": "Oghut Donat Pacitan",
       "tiktokIds": [
         "7551262833409805574"
-      ]
+      ],
+      "lat": -8.196656,
+      "lng": 111.102129
     }
   ],
   "jlsPoints": [
@@ -619,10 +616,10 @@
     },
     {
       "id": "3",
-      "title": "SPBU Siaga JLS & Rest Area",
-      "badge": "Pitstop 24 Jam",
+      "title": "SPBU Soge (Jalur JLS)",
+      "badge": "Pitstop JLS",
       "tone": "blue",
-      "desc": "Fasilitas: Pertamax/Dex, Tambal Ban, Musala, Minimarket",
+      "desc": "SPBU Pertamina di jalur JLS dekat Pantai Soge. Isi bensin sebelum menyusuri jalur pesisir selatan.",
       "placeId": "5"
     }
   ],
