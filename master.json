@@ -1,5 +1,5 @@
 {
-  "version": 7,
+  "version": 8,
   "updatedAt": "2026-11-03",
   "categories": [
     {
@@ -687,6 +687,14 @@
               "lng": 111.12443999999999,
               "placeId": "ChIJj0kCnbNheS4RBJqdlwxGLpU"
             }
+          ],
+          "images": [
+            {
+              "src": "images/svc-darurat-2.jpg",
+              "caption": "Ilustrasi: ambulans rumah sakit",
+              "credit": "Foto: SATELITBM · CC BY-SA 4.0",
+              "source": "https://commons.wikimedia.org/wiki/File:Mobil_Ambulan_Rumah_Sakit_Wijaya_Kusuma_Kebumen.jpg"
+            }
           ]
         },
         {
@@ -746,6 +754,14 @@
               "lng": 111.1266014,
               "placeId": "ChIJVVVVFaVheS4RMSMQbXspGHw"
             }
+          ],
+          "images": [
+            {
+              "src": "images/svc-darurat-1.jpg",
+              "caption": "Ilustrasi: Puskesmas",
+              "credit": "Foto: SATELIT BM9 · CC BY-SA 4.0",
+              "source": "https://commons.wikimedia.org/wiki/File:Puskesmas_Sruweng_Kebumen.jpg"
+            }
           ]
         },
         {
@@ -771,24 +787,18 @@
               "lng": 111.0950146,
               "placeId": "ChIJ_____37fey4RHt6Y7XcNsv8"
             }
+          ],
+          "images": [
+            {
+              "src": "images/svc-darurat-3.jpg",
+              "caption": "Ilustrasi: apotek",
+              "credit": "Foto: YT Arty · CC BY-SA 4.0",
+              "source": "https://commons.wikimedia.org/wiki/File:Apotek_K-24_Margomulyo_Ngawi.jpg"
+            }
           ]
         }
       ],
-      "updatedAt": "2026-11-03",
-      "images": [
-        {
-          "src": "images/svc-darurat-1.jpg",
-          "caption": "Ilustrasi: Puskesmas",
-          "credit": "Foto: SATELIT BM9 · CC BY-SA 4.0",
-          "source": "https://commons.wikimedia.org/wiki/File:Puskesmas_Sruweng_Kebumen.jpg"
-        },
-        {
-          "src": "images/svc-darurat-2.jpg",
-          "caption": "Ilustrasi: ambulans rumah sakit",
-          "credit": "Foto: SATELITBM · CC BY-SA 4.0",
-          "source": "https://commons.wikimedia.org/wiki/File:Mobil_Ambulan_Rumah_Sakit_Wijaya_Kusuma_Kebumen.jpg"
-        }
-      ]
+      "updatedAt": "2026-11-03"
     },
     {
       "id": "pitstop",
@@ -866,6 +876,20 @@
               "lng": 111.1178272,
               "placeId": "ChIJCQ0azpJheS4R6NXaYk_KpPI"
             }
+          ],
+          "images": [
+            {
+              "src": "images/svc-pitstop-1.jpg",
+              "caption": "Ilustrasi: SPBU Pertamina",
+              "credit": "Foto: Henri Aja · CC BY-SA 4.0",
+              "source": "https://commons.wikimedia.org/wiki/File:SPBU_Pertamina_2022.jpg"
+            },
+            {
+              "src": "images/5-1.jpg",
+              "caption": "Jalur JLS Pacitan (Pantai Soge)",
+              "credit": "Foto: Saeful Aji Sucipto · CC BY-SA 4.0",
+              "source": "https://commons.wikimedia.org/wiki/File:Pantai_Soge,_Pacitan,_Jawa_Timur.jpg"
+            }
           ]
         },
         {
@@ -933,6 +957,14 @@
               "lng": 110.9417716,
               "placeId": "ChIJo1XdqfHcey4R0rc9Rv_jcnI"
             }
+          ],
+          "images": [
+            {
+              "src": "images/svc-pitstop-2.jpg",
+              "caption": "Ilustrasi: tambal ban",
+              "credit": "Foto: Wulan cnms · CC BY-SA 4.0",
+              "source": "https://commons.wikimedia.org/wiki/File:Tambal_ban_di_pinggir_jalan.jpg"
+            }
           ]
         },
         {
@@ -981,36 +1013,18 @@
               "lng": 111.10824749999999,
               "placeId": "ChIJ38DjfsNheS4RAWFAZ42WdE8"
             }
+          ],
+          "images": [
+            {
+              "src": "images/svc-pitstop-3.jpg",
+              "caption": "Ilustrasi: bengkel motor",
+              "credit": "Foto: Metodius GP · CC BY-SA 4.0",
+              "source": "https://commons.wikimedia.org/wiki/File:Bengkel_Cakra_Motor_11.jpg"
+            }
           ]
         }
       ],
-      "updatedAt": "2026-11-03",
-      "images": [
-        {
-          "src": "images/5-1.jpg",
-          "caption": "Jalur JLS Pacitan (Pantai Soge)",
-          "credit": "Foto: Saeful Aji Sucipto · CC BY-SA 4.0",
-          "source": "https://commons.wikimedia.org/wiki/File:Pantai_Soge,_Pacitan,_Jawa_Timur.jpg"
-        },
-        {
-          "src": "images/svc-pitstop-1.jpg",
-          "caption": "Ilustrasi: SPBU Pertamina",
-          "credit": "Foto: Henri Aja · CC BY-SA 4.0",
-          "source": "https://commons.wikimedia.org/wiki/File:SPBU_Pertamina_2022.jpg"
-        },
-        {
-          "src": "images/svc-pitstop-2.jpg",
-          "caption": "Ilustrasi: tambal ban",
-          "credit": "Foto: Wulan cnms · CC BY-SA 4.0",
-          "source": "https://commons.wikimedia.org/wiki/File:Tambal_ban_di_pinggir_jalan.jpg"
-        },
-        {
-          "src": "images/svc-pitstop-3.jpg",
-          "caption": "Ilustrasi: bengkel motor",
-          "credit": "Foto: Metodius GP · CC BY-SA 4.0",
-          "source": "https://commons.wikimedia.org/wiki/File:Bengkel_Cakra_Motor_11.jpg"
-        }
-      ]
+      "updatedAt": "2026-11-03"
     },
     {
       "id": "penginapan",
@@ -1045,6 +1059,14 @@
               "lat": -8.2248848,
               "lng": 110.94870549999999,
               "placeId": "ChIJkfhOaEbdey4RyKzjPHv4fx0"
+            }
+          ],
+          "images": [
+            {
+              "src": "images/1-2.jpg",
+              "caption": "Pantai Klayar",
+              "credit": "Foto: Cynthia.veronica · CC BY-SA 4.0",
+              "source": "https://commons.wikimedia.org/wiki/File:Pantai_Klayar.jpg"
             }
           ]
         },
@@ -1090,6 +1112,20 @@
               "lat": -8.2360744,
               "lng": 110.97429699999999,
               "placeId": "ChIJ-8n3gL_dey4R-VivIJ2lInU"
+            }
+          ],
+          "images": [
+            {
+              "src": "images/svc-penginapan-1.jpg",
+              "caption": "Homestay di Watukarung",
+              "credit": "Foto: Humboldt · CC BY-SA 4.0",
+              "source": "https://commons.wikimedia.org/wiki/File:The_Sun,_the_Trees_%26_the_Sea_2.jpg"
+            },
+            {
+              "src": "images/svc-penginapan-2.jpg",
+              "caption": "Desa Watukarung",
+              "credit": "Foto: Humboldt · CC BY-SA 4.0",
+              "source": "https://commons.wikimedia.org/wiki/File:Watukarung_village_2.jpg"
             }
           ]
         },
@@ -1147,30 +1183,18 @@
               "lng": 111.10268939999999,
               "placeId": "ChIJawh4Bt1heS4RYuzrcgirdcE"
             }
+          ],
+          "images": [
+            {
+              "src": "images/svc-penginapan-3.jpg",
+              "caption": "Pantai Teleng Ria, dekat hotel kota",
+              "credit": "Foto: Stella Nostra G. A · CC BY-SA 4.0",
+              "source": "https://commons.wikimedia.org/wiki/File:Pantai_Teleng_Ria,_Pacitan,_Jawa_Timur.jpg"
+            }
           ]
         }
       ],
-      "updatedAt": "2026-11-03",
-      "images": [
-        {
-          "src": "images/svc-penginapan-1.jpg",
-          "caption": "Homestay di Watukarung",
-          "credit": "Foto: Humboldt · CC BY-SA 4.0",
-          "source": "https://commons.wikimedia.org/wiki/File:The_Sun,_the_Trees_%26_the_Sea_2.jpg"
-        },
-        {
-          "src": "images/svc-penginapan-2.jpg",
-          "caption": "Desa Watukarung",
-          "credit": "Foto: Humboldt · CC BY-SA 4.0",
-          "source": "https://commons.wikimedia.org/wiki/File:Watukarung_village_2.jpg"
-        },
-        {
-          "src": "images/svc-penginapan-3.jpg",
-          "caption": "Pantai Teleng Ria, dekat hotel kota",
-          "credit": "Foto: Stella Nostra G. A · CC BY-SA 4.0",
-          "source": "https://commons.wikimedia.org/wiki/File:Pantai_Teleng_Ria,_Pacitan,_Jawa_Timur.jpg"
-        }
-      ]
+      "updatedAt": "2026-11-03"
     }
   ]
 }

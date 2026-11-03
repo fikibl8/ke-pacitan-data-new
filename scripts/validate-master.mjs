@@ -15,7 +15,7 @@ for (const p of m.places || []) {
   if (!(m.categories || []).some((c) => c.id === p.category)) errors.push(`${tag}: kategori "${p.category}" tidak ada di categories`);
   for (const im of p.images || []) if (!/^https?:/.test(im.src) && !existsSync(new URL(im.src, root))) errors.push(`${tag}: berkas foto tidak ada: ${im.src}`);
 }
-for (const s of m.services || []) for (const im of s.images || []) if (!/^https?:/.test(im.src) && !existsSync(new URL(im.src, root))) errors.push(`services[${s.id}]: berkas foto tidak ada: ${im.src}`);
+for (const s of m.services || []) for (const g of s.groups) for (const im of [...(g.images || []), ...g.items.flatMap((it) => it.images || [])]) if (!/^https?:/.test(im.src) && !existsSync(new URL(im.src, root))) errors.push(`services[${s.id}] "${g.title}": berkas foto tidak ada: ${im.src}`);
 for (const s of m.services || []) for (const g of s.groups) for (const it of g.items)
   if (!inPacitan(it.lat, it.lng)) errors.push(`services[${s.id}] "${it.name}": lat/lng wajib ada dan harus di wilayah Pacitan`);
 for (const h of m.heroSlides || []) if (h.placeId && !ids.has(h.placeId)) errors.push(`heroSlides[${h.id}]: placeId ${h.placeId} tidak ada`);

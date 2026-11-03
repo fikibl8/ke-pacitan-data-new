@@ -21,3 +21,4 @@ Foto diunduh dari Wikimedia Commons dan diubah ukurannya (lebar maks. 1200 px, k
 | svc-pitstop-3.jpg | Metodius GP | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File:Bengkel_Cakra_Motor_11.jpg) |
 | svc-darurat-1.jpg | SATELIT BM9 | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File:Puskesmas_Sruweng_Kebumen.jpg) |
 | svc-darurat-2.jpg | SATELITBM | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File:Mobil_Ambulan_Rumah_Sakit_Wijaya_Kusuma_Kebumen.jpg) |
+| svc-darurat-3.jpg | YT Arty | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File:Apotek_K-24_Margomulyo_Ngawi.jpg) |
