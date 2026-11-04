@@ -1,5 +1,5 @@
 {
-  "version": 13,
+  "version": 14,
   "updatedAt": "2026-11-03",
   "categories": [
     {
@@ -202,7 +202,8 @@
       "lat": -8.22391,
       "lng": 110.947404,
       "popular": true,
-      "placeId": "ChIJWzWA1gbdey4RTNY6yaULSFg"
+      "placeId": "ChIJWzWA1gbdey4RTNY6yaULSFg",
+      "updatedAt": "2026-11-03"
     },
     {
       "id": "2",
@@ -276,7 +277,8 @@
       "lat": -8.164471,
       "lng": 110.979859,
       "popular": true,
-      "placeId": "ChIJAQAAAPBheS4RTtPwY7Ka_xU"
+      "placeId": "ChIJAQAAAPBheS4RTtPwY7Ka_xU",
+      "updatedAt": "2026-11-03"
     },
     {
       "id": "3",
@@ -359,7 +361,8 @@
       "lat": -8.236924,
       "lng": 110.973212,
       "popular": true,
-      "placeId": "ChIJ1y-Hlr_dey4ROlrbi8rOknw"
+      "placeId": "ChIJ1y-Hlr_dey4ROlrbi8rOknw",
+      "updatedAt": "2026-11-03"
     },
     {
       "id": "4",
@@ -417,7 +420,8 @@
       "lat": -8.210828,
       "lng": 111.084691,
       "popular": true,
-      "placeId": "ChIJ5feAinjfey4RZhH5k35u13A"
+      "placeId": "ChIJ5feAinjfey4RZhH5k35u13A",
+      "updatedAt": "2026-11-03"
     },
     {
       "id": "5",
@@ -484,7 +488,8 @@
       "lat": -8.246891,
       "lng": 111.263409,
       "popular": true,
-      "placeId": "ChIJl9ePso5deS4RM_3VO5NYPZI"
+      "placeId": "ChIJl9ePso5deS4RM_3VO5NYPZI",
+      "updatedAt": "2026-11-03"
     },
     {
       "colors": [
@@ -537,7 +542,8 @@
       "lat": -8.201898,
       "lng": 111.099311,
       "popular": true,
-      "placeId": "ChIJhYKMSddheS4RhHV7ZWwjjV8"
+      "placeId": "ChIJhYKMSddheS4RhHV7ZWwjjV8",
+      "updatedAt": "2026-11-03"
     },
     {
       "colors": [
@@ -591,7 +597,8 @@
       "lat": -8.21512,
       "lng": 111.079057,
       "popular": true,
-      "placeId": "ChIJI7i5zrbfey4RHBitdJI6WfA"
+      "placeId": "ChIJI7i5zrbfey4RHBitdJI6WfA",
+      "updatedAt": "2026-11-03"
     },
     {
       "colors": [
@@ -644,7 +651,8 @@
       "lat": -8.196656,
       "lng": 111.102129,
       "popular": true,
-      "placeId": "ChIJFfmERABheS4RCGS0WQP234U"
+      "placeId": "ChIJFfmERABheS4RCGS0WQP234U",
+      "updatedAt": "2026-11-03"
     },
     {
       "id": "9",
@@ -684,7 +692,8 @@
           "sub": "Bar Kopi Espresso"
         }
       ],
-      "tiktokIds": []
+      "tiktokIds": [],
+      "updatedAt": "2026-11-03"
     },
     {
       "id": "10",
@@ -724,7 +733,8 @@
           "sub": "Kedai Kopi"
         }
       ],
-      "tiktokIds": []
+      "tiktokIds": [],
+      "updatedAt": "2026-11-03"
     },
     {
       "id": "11",
@@ -764,7 +774,8 @@
           "sub": "Kedai Kopi"
         }
       ],
-      "tiktokIds": []
+      "tiktokIds": [],
+      "updatedAt": "2026-11-03"
     },
     {
       "id": "12",
@@ -804,7 +815,8 @@
           "sub": "Kedai Kopi"
         }
       ],
-      "tiktokIds": []
+      "tiktokIds": [],
+      "updatedAt": "2026-11-03"
     },
     {
       "id": "13",
@@ -860,7 +872,8 @@
       "youtubeIds": [
         "qYaNa5xSWE8",
         "mhxleOmqadA"
-      ]
+      ],
+      "updatedAt": "2026-11-03"
     },
     {
       "id": "14",
@@ -911,7 +924,8 @@
       "youtubeIds": [
         "67AItZpFtH4",
         "ncTpW4l0H6U"
-      ]
+      ],
+      "updatedAt": "2026-11-03"
     },
     {
       "id": "15",
@@ -955,7 +969,8 @@
       "youtubeIds": [
         "g4a4RIDHj6g",
         "8kO4aCUBT40"
-      ]
+      ],
+      "updatedAt": "2026-11-03"
     },
     {
       "id": "16",
@@ -995,7 +1010,8 @@
           "sub": "Kolam Renang"
         }
       ],
-      "tiktokIds": []
+      "tiktokIds": [],
+      "updatedAt": "2026-11-03"
     },
     {
       "id": "17",
@@ -1035,7 +1051,8 @@
           "sub": "Kolam Renang Umum"
         }
       ],
-      "tiktokIds": []
+      "tiktokIds": [],
+      "updatedAt": "2026-11-03"
     },
     {
       "id": "18",
@@ -1075,7 +1092,8 @@
           "sub": "Kolam Renang"
         }
       ],
-      "tiktokIds": []
+      "tiktokIds": [],
+      "updatedAt": "2026-11-03"
     },
     {
       "id": "19",
@@ -1119,7 +1137,8 @@
       "youtubeIds": [
         "R2hsrgYm6C8",
         "Om6ggGQ04_s"
-      ]
+      ],
+      "updatedAt": "2026-11-03"
     },
     {
       "id": "20",
@@ -1159,7 +1178,8 @@
           "sub": "Museum"
         }
       ],
-      "tiktokIds": []
+      "tiktokIds": [],
+      "updatedAt": "2026-11-03"
     },
     {
       "id": "21",
@@ -1203,7 +1223,8 @@
       "youtubeIds": [
         "hO0IbRJmz24",
         "kCJGgX2udHY"
-      ]
+      ],
+      "updatedAt": "2026-11-03"
     },
     {
       "id": "22",
@@ -1243,7 +1264,8 @@
           "sub": "Puncak Gunung"
         }
       ],
-      "tiktokIds": []
+      "tiktokIds": [],
+      "updatedAt": "2026-11-03"
     },
     {
       "id": "23",
@@ -1287,7 +1309,8 @@
       "youtubeIds": [
         "TXPUBRRYb1E",
         "TSPugPG8V8I"
-      ]
+      ],
+      "updatedAt": "2026-11-03"
     },
     {
       "id": "24",
@@ -1327,7 +1350,8 @@
           "sub": "Hutan Nasional"
         }
       ],
-      "tiktokIds": []
+      "tiktokIds": [],
+      "updatedAt": "2026-11-03"
     },
     {
       "id": "25",
@@ -1371,7 +1395,8 @@
       "youtubeIds": [
         "417a6gfGwHw",
         "Eb2QyIAkh5A"
-      ]
+      ],
+      "updatedAt": "2026-11-03"
     },
     {
       "id": "26",
@@ -1411,7 +1436,8 @@
           "sub": "Taman"
         }
       ],
-      "tiktokIds": []
+      "tiktokIds": [],
+      "updatedAt": "2026-11-03"
     },
     {
       "id": "27",
@@ -1462,7 +1488,8 @@
       "youtubeIds": [
         "TU4w-JPf9lM",
         "QZbUiFIK7dI"
-      ]
+      ],
+      "updatedAt": "2026-11-03"
     },
     {
       "id": "28",
@@ -1502,7 +1529,8 @@
           "sub": "Grup Tari"
         }
       ],
-      "tiktokIds": []
+      "tiktokIds": [],
+      "updatedAt": "2026-11-03"
     },
     {
       "id": "29",
@@ -1542,7 +1570,8 @@
           "sub": "Masjid"
         }
       ],
-      "tiktokIds": []
+      "tiktokIds": [],
+      "updatedAt": "2026-11-03"
     },
     {
       "id": "30",
@@ -1582,7 +1611,8 @@
           "sub": "Tempat Ziarah"
         }
       ],
-      "tiktokIds": []
+      "tiktokIds": [],
+      "updatedAt": "2026-11-03"
     },
     {
       "id": "31",
@@ -1622,7 +1652,8 @@
           "sub": "Tempat Ziarah"
         }
       ],
-      "tiktokIds": []
+      "tiktokIds": [],
+      "updatedAt": "2026-11-03"
     }
   ],
   "services": [
@@ -1667,7 +1698,8 @@
               "reviews": 1580,
               "lat": -8.196098899999999,
               "lng": 111.10037,
-              "placeId": "ChIJZ79u_NtheS4RMdpV_OKZaXE"
+              "placeId": "ChIJZ79u_NtheS4RMdpV_OKZaXE",
+              "updatedAt": "2026-11-03"
             },
             {
               "name": "RUMAH SAKIT UMUM AGUNG MULIA PACITAN",
@@ -1677,7 +1709,8 @@
               "reviews": 1608,
               "lat": -8.1934312,
               "lng": 111.09469419999999,
-              "placeId": "ChIJg4xyRN9heS4Rz6d2kZqqRJI"
+              "placeId": "ChIJg4xyRN9heS4Rz6d2kZqqRJI",
+              "updatedAt": "2026-11-03"
             },
             {
               "name": "Rumah Sakit Umum Medical Mandiri Pacitan",
@@ -1687,7 +1720,8 @@
               "reviews": 1061,
               "lat": -8.206954999999999,
               "lng": 111.12443999999999,
-              "placeId": "ChIJj0kCnbNheS4RBJqdlwxGLpU"
+              "placeId": "ChIJj0kCnbNheS4RBJqdlwxGLpU",
+              "updatedAt": "2026-11-03"
             }
           ],
           "images": [
@@ -1711,7 +1745,8 @@
               "reviews": 111,
               "lat": -8.0923529,
               "lng": 110.9839143,
-              "placeId": "ChIJbTsgmafQey4Rr_v2Vd0rgBs"
+              "placeId": "ChIJbTsgmafQey4Rr_v2Vd0rgBs",
+              "updatedAt": "2026-11-03"
             },
             {
               "name": "Puskesmas Punung",
@@ -1722,7 +1757,8 @@
               "reviews": 68,
               "lat": -8.1349543,
               "lng": 111.0085996,
-              "placeId": "ChIJbR__RnjZey4RDf0r71wmJLs"
+              "placeId": "ChIJbR__RnjZey4RDf0r71wmJLs",
+              "updatedAt": "2026-11-03"
             },
             {
               "name": "Puskesmas Pringkuku",
@@ -1732,7 +1768,8 @@
               "reviews": 27,
               "lat": -8.1716109,
               "lng": 111.04828499999999,
-              "placeId": "ChIJF7g0O9XYey4Ru7fHzAE7rac"
+              "placeId": "ChIJF7g0O9XYey4Ru7fHzAE7rac",
+              "updatedAt": "2026-11-03"
             },
             {
               "name": "Puskesmas Ngadirojo",
@@ -1743,7 +1780,8 @@
               "reviews": 319,
               "lat": -8.201635999999999,
               "lng": 111.3320299,
-              "placeId": "ChIJKR7YqpE5ei4R1_t9pkYn8Jc"
+              "placeId": "ChIJKR7YqpE5ei4R1_t9pkYn8Jc",
+              "updatedAt": "2026-11-03"
             },
             {
               "name": "Puskesmas Pacitan",
@@ -1754,7 +1792,8 @@
               "reviews": 91,
               "lat": -8.1935935,
               "lng": 111.1266014,
-              "placeId": "ChIJVVVVFaVheS4RMSMQbXspGHw"
+              "placeId": "ChIJVVVVFaVheS4RMSMQbXspGHw",
+              "updatedAt": "2026-11-03"
             }
           ],
           "images": [
@@ -1777,7 +1816,8 @@
               "reviews": 44,
               "lat": -8.1946218,
               "lng": 111.11047959999999,
-              "placeId": "ChIJm6pkfoRheS4RbFf4OalcghU"
+              "placeId": "ChIJm6pkfoRheS4RbFf4OalcghU",
+              "updatedAt": "2026-11-03"
             },
             {
               "name": "Apotek “Cuwik Farma”",
@@ -1787,7 +1827,8 @@
               "reviews": 29,
               "lat": -8.205731199999999,
               "lng": 111.0950146,
-              "placeId": "ChIJ_____37fey4RHt6Y7XcNsv8"
+              "placeId": "ChIJ_____37fey4RHt6Y7XcNsv8",
+              "updatedAt": "2026-11-03"
             }
           ],
           "images": [
@@ -1824,7 +1865,8 @@
               "reviews": 523,
               "lat": -8.2045775,
               "lng": 111.09731359999999,
-              "placeId": "ChIJq_H58tZheS4RVt68nmuiI1s"
+              "placeId": "ChIJq_H58tZheS4RVt68nmuiI1s",
+              "updatedAt": "2026-11-03"
             },
             {
               "name": "SPBU Pertamina 54.635.03 Mentoro Pacitan",
@@ -1834,7 +1876,8 @@
               "reviews": 259,
               "lat": -8.1925894,
               "lng": 111.1291967,
-              "placeId": "ChIJgeZpgbxheS4Re2aVhXkR9hk"
+              "placeId": "ChIJgeZpgbxheS4Re2aVhXkR9hk",
+              "updatedAt": "2026-11-03"
             },
             {
               "name": "SPBU Pertamina 54.635.05 Punung",
@@ -1845,7 +1888,8 @@
               "reviews": 625,
               "lat": -8.137437499999999,
               "lng": 111.01368749999999,
-              "placeId": "ChIJ3y9s3HbZey4RlPl92VVI2Io"
+              "placeId": "ChIJ3y9s3HbZey4RlPl92VVI2Io",
+              "updatedAt": "2026-11-03"
             },
             {
               "name": "SPBU Pertamina 54.635.07 Soge",
@@ -1856,7 +1900,8 @@
               "reviews": 91,
               "lat": -8.2468908,
               "lng": 111.2634095,
-              "placeId": "ChIJl9ePso5deS4RM_3VO5NYPZI"
+              "placeId": "ChIJl9ePso5deS4RM_3VO5NYPZI",
+              "updatedAt": "2026-11-03"
             },
             {
               "name": "SPBU Pertamina 54.635.04",
@@ -1866,7 +1911,8 @@
               "reviews": 309,
               "lat": -8.2103871,
               "lng": 111.3257883,
-              "placeId": "ChIJb5GQC05oeS4ROpXDM1BDA_8"
+              "placeId": "ChIJb5GQC05oeS4ROpXDM1BDA_8",
+              "updatedAt": "2026-11-03"
             },
             {
               "name": "SPBU PERTAMINA NANGGUNGAN",
@@ -1876,7 +1922,8 @@
               "reviews": 361,
               "lat": -8.1812232,
               "lng": 111.1178272,
-              "placeId": "ChIJCQ0azpJheS4R6NXaYk_KpPI"
+              "placeId": "ChIJCQ0azpJheS4R6NXaYk_KpPI",
+              "updatedAt": "2026-11-03"
             }
           ],
           "images": [
@@ -1905,7 +1952,8 @@
               "reviews": 175,
               "lat": -8.1963501,
               "lng": 111.1190331,
-              "placeId": "ChIJF35Rj-9heS4RwE8KGhQckT8"
+              "placeId": "ChIJF35Rj-9heS4RwE8KGhQckT8",
+              "updatedAt": "2026-11-03"
             },
             {
               "name": "Narto Ban",
@@ -1915,7 +1963,8 @@
               "reviews": 62,
               "lat": -8.2001558,
               "lng": 111.1256684,
-              "placeId": "ChIJuXAXkLBheS4RGNOAqsF3VZ4"
+              "placeId": "ChIJuXAXkLBheS4RGNOAqsF3VZ4",
+              "updatedAt": "2026-11-03"
             },
             {
               "name": "TAMBAL BAN MOBIL DAN MOTOR PAK JOKO",
@@ -1925,7 +1974,8 @@
               "reviews": 10,
               "lat": -8.193709,
               "lng": 111.10762009999999,
-              "placeId": "ChIJaS54bBJheS4RKYtxiVZxwOM"
+              "placeId": "ChIJaS54bBJheS4RKYtxiVZxwOM",
+              "updatedAt": "2026-11-03"
             },
             {
               "name": "Pacitan Angin Energy",
@@ -1935,7 +1985,8 @@
               "reviews": 28,
               "lat": -8.2149375,
               "lng": 111.07668749999999,
-              "placeId": "ChIJnYyfuVHfey4Rjyih_AxyCL0"
+              "placeId": "ChIJnYyfuVHfey4Rjyih_AxyCL0",
+              "updatedAt": "2026-11-03"
             },
             {
               "name": "Gudang Ban Motor Pacitan",
@@ -1946,7 +1997,8 @@
               "reviews": 28,
               "lat": -8.1804814,
               "lng": 111.1658168,
-              "placeId": "ChIJsYe3gbpheS4R4qBrp072ah8"
+              "placeId": "ChIJsYe3gbpheS4R4qBrp072ah8",
+              "updatedAt": "2026-11-03"
             },
             {
               "name": "Sejajar Wijaya Spare Part Motor (tambal Ban)",
@@ -1957,7 +2009,8 @@
               "reviews": 3,
               "lat": -8.2072082,
               "lng": 110.9417716,
-              "placeId": "ChIJo1XdqfHcey4R0rc9Rv_jcnI"
+              "placeId": "ChIJo1XdqfHcey4R0rc9Rv_jcnI",
+              "updatedAt": "2026-11-03"
             }
           ],
           "images": [
@@ -1981,7 +2034,8 @@
               "reviews": 3130,
               "lat": -8.19557,
               "lng": 111.10560199999999,
-              "placeId": "ChIJuSpMQtxheS4RC4kT2ocl6FY"
+              "placeId": "ChIJuSpMQtxheS4RC4kT2ocl6FY",
+              "updatedAt": "2026-11-03"
             },
             {
               "name": "Ahass 15485 Siswa Motor Punung",
@@ -1992,7 +2046,8 @@
               "reviews": 401,
               "lat": -8.1393012,
               "lng": 111.0192606,
-              "placeId": "ChIJ8Q6yCnPZey4RzAUGGgei-V4"
+              "placeId": "ChIJ8Q6yCnPZey4RzAUGGgei-V4",
+              "updatedAt": "2026-11-03"
             },
             {
               "name": "Ahass Andrila Motor",
@@ -2003,7 +2058,8 @@
               "reviews": 92,
               "lat": -8.1936228,
               "lng": 111.1268188,
-              "placeId": "ChIJf21xWrdheS4R32fjcu-kiUs"
+              "placeId": "ChIJf21xWrdheS4R32fjcu-kiUs",
+              "updatedAt": "2026-11-03"
             },
             {
               "name": "Bengkel Satria Motor",
@@ -2013,7 +2069,8 @@
               "reviews": 25,
               "lat": -8.1946627,
               "lng": 111.10824749999999,
-              "placeId": "ChIJ38DjfsNheS4RAWFAZ42WdE8"
+              "placeId": "ChIJ38DjfsNheS4RAWFAZ42WdE8",
+              "updatedAt": "2026-11-03"
             }
           ],
           "images": [
@@ -2050,7 +2107,8 @@
               "reviews": 421,
               "lat": -8.224117999999999,
               "lng": 110.9481704,
-              "placeId": "ChIJO8Vo0QDdey4RiES6-wvIwfM"
+              "placeId": "ChIJO8Vo0QDdey4RiES6-wvIwfM",
+              "updatedAt": "2026-11-03"
             },
             {
               "name": "Homestay Kayu Pantai Klayar",
@@ -2060,7 +2118,8 @@
               "reviews": 150,
               "lat": -8.2248848,
               "lng": 110.94870549999999,
-              "placeId": "ChIJkfhOaEbdey4RyKzjPHv4fx0"
+              "placeId": "ChIJkfhOaEbdey4RyKzjPHv4fx0",
+              "updatedAt": "2026-11-03"
             }
           ],
           "images": [
@@ -2083,7 +2142,8 @@
               "reviews": 495,
               "lat": -8.2368092,
               "lng": 110.97530429999999,
-              "placeId": "ChIJAQAAANDeey4R3sWAyXu2IhA"
+              "placeId": "ChIJAQAAANDeey4R3sWAyXu2IhA",
+              "updatedAt": "2026-11-03"
             },
             {
               "name": "Watukarung Prapto Homestay, Surf Accommodation",
@@ -2093,7 +2153,8 @@
               "reviews": 381,
               "lat": -8.236316,
               "lng": 110.9744329,
-              "placeId": "ChIJpcBsh7_dey4RIOh7y1E5ByI"
+              "placeId": "ChIJpcBsh7_dey4RIOh7y1E5ByI",
+              "updatedAt": "2026-11-03"
             },
             {
               "name": "Watukarung Ristu Homestay",
@@ -2103,7 +2164,8 @@
               "reviews": 337,
               "lat": -8.2351973,
               "lng": 110.97315239999999,
-              "placeId": "ChIJKz3YpVPdey4RWFlEQnHyOsA"
+              "placeId": "ChIJKz3YpVPdey4RWFlEQnHyOsA",
+              "updatedAt": "2026-11-03"
             },
             {
               "name": "Watukarung Sackstone guesthouse surf",
@@ -2113,7 +2175,8 @@
               "reviews": 299,
               "lat": -8.2360744,
               "lng": 110.97429699999999,
-              "placeId": "ChIJ-8n3gL_dey4R-VivIJ2lInU"
+              "placeId": "ChIJ-8n3gL_dey4R-VivIJ2lInU",
+              "updatedAt": "2026-11-03"
             }
           ],
           "images": [
@@ -2142,7 +2205,8 @@
               "reviews": 830,
               "lat": -8.2006824,
               "lng": 111.0936622,
-              "placeId": "ChIJn28RH9hheS4R9hPviN4bdKY"
+              "placeId": "ChIJn28RH9hheS4R9hPviN4bdKY",
+              "updatedAt": "2026-11-03"
             },
             {
               "name": "Hotel Kaliu",
@@ -2152,7 +2216,8 @@
               "reviews": 137,
               "lat": -8.2010538,
               "lng": 111.101492,
-              "placeId": "ChIJq3fYs99heS4REfTZENVYQDw"
+              "placeId": "ChIJq3fYs99heS4REfTZENVYQDw",
+              "updatedAt": "2026-11-03"
             },
             {
               "name": "SUMILIR HOTEL SYARIAH",
@@ -2162,7 +2227,8 @@
               "reviews": 116,
               "lat": -8.192924699999999,
               "lng": 111.1016745,
-              "placeId": "ChIJ54wIloVheS4RsrLvp_8ydaw"
+              "placeId": "ChIJ54wIloVheS4RsrLvp_8ydaw",
+              "updatedAt": "2026-11-03"
             },
             {
               "name": "Parai Beach Resort Telengria",
@@ -2173,7 +2239,8 @@
               "reviews": 3774,
               "lat": -8.2198447,
               "lng": 111.07962719999999,
-              "placeId": "ChIJ41fXdnjfey4RQqzJmPk0tjg"
+              "placeId": "ChIJ41fXdnjfey4RQqzJmPk0tjg",
+              "updatedAt": "2026-11-03"
             },
             {
               "name": "Prasasti Hotel Pacitan",
@@ -2183,7 +2250,8 @@
               "reviews": 745,
               "lat": -8.1922413,
               "lng": 111.10268939999999,
-              "placeId": "ChIJawh4Bt1heS4RYuzrcgirdcE"
+              "placeId": "ChIJawh4Bt1heS4RYuzrcgirdcE",
+              "updatedAt": "2026-11-03"
             }
           ],
           "images": [
@@ -2237,7 +2305,8 @@
                   "credit": "Foto: Mujionomaruf · CC BY-SA 4.0",
                   "source": "https://commons.wikimedia.org/wiki/File:Shelter_Bus_Antarkota_Sisi_Barat_Terminal_Pacitan.jpg"
                 }
-              ]
+              ],
+              "updatedAt": "2026-11-03"
             }
           ]
         },
@@ -2260,7 +2329,8 @@
               "reviews": 312,
               "lat": -8.1980106,
               "lng": 111.10407649999999,
-              "placeId": "ChIJoa-U4dpheS4RSylZTEOjQkU"
+              "placeId": "ChIJoa-U4dpheS4RSylZTEOjQkU",
+              "updatedAt": "2026-11-03"
             },
             {
               "name": "PT. Bintang Terang tour & travel",
@@ -2270,7 +2340,8 @@
               "reviews": 293,
               "lat": -8.1962146,
               "lng": 111.08293929999999,
-              "placeId": "ChIJ87vbOW3fey4Rk0gqGi8j7bs"
+              "placeId": "ChIJ87vbOW3fey4Rk0gqGi8j7bs",
+              "updatedAt": "2026-11-03"
             },
             {
               "name": "PO. Anekaindah",
@@ -2280,7 +2351,8 @@
               "reviews": 209,
               "lat": -8.1969108,
               "lng": 111.1164589,
-              "placeId": "ChIJZbyPk8ZheS4R01HZKEnkXOU"
+              "placeId": "ChIJZbyPk8ZheS4R01HZKEnkXOU",
+              "updatedAt": "2026-11-03"
             },
             {
               "name": "GL Malta Travel",
@@ -2291,7 +2363,8 @@
               "reviews": 32,
               "lat": -8.195249,
               "lng": 111.09437829999999,
-              "placeId": "ChIJ14UgTt9heS4RXOOt6ltdLNw"
+              "placeId": "ChIJ14UgTt9heS4RXOOt6ltdLNw",
+              "updatedAt": "2026-11-03"
             },
             {
               "name": "PW Tran's Travel",
@@ -2302,7 +2375,8 @@
               "reviews": 18,
               "lat": -8.1896919,
               "lng": 111.1139336,
-              "placeId": "ChIJFdklHttheS4R_uzZypAGSGM"
+              "placeId": "ChIJFdklHttheS4R_uzZypAGSGM",
+              "updatedAt": "2026-11-03"
             },
             {
               "name": "L.A. Jaya Manah Kinclong",
@@ -2313,7 +2387,8 @@
               "reviews": 20,
               "lat": -8.183831699999999,
               "lng": 111.11653179999999,
-              "placeId": "ChIJ6flKPQ1heS4RGN1uAuG_yV0"
+              "placeId": "ChIJ6flKPQ1heS4RGN1uAuG_yV0",
+              "updatedAt": "2026-11-03"
             },
             {
               "name": "Trans Pacitan",
@@ -2323,7 +2398,8 @@
               "reviews": 13,
               "lat": -8.2017878,
               "lng": 111.0930257,
-              "placeId": "ChIJdfg5LCrfey4RRK0bDagzFAA"
+              "placeId": "ChIJdfg5LCrfey4RRK0bDagzFAA",
+              "updatedAt": "2026-11-03"
             },
             {
               "name": "PO. Rhema Abadi Pacitan",
@@ -2334,7 +2410,8 @@
               "reviews": 17,
               "lat": -8.1987535,
               "lng": 111.11854459999999,
-              "placeId": "ChIJtb1mmW5heS4RarNas2AwNuA"
+              "placeId": "ChIJtb1mmW5heS4RarNas2AwNuA",
+              "updatedAt": "2026-11-03"
             },
             {
               "name": "Agen bus AGRA MAS Donorojo",
@@ -2345,7 +2422,8 @@
               "reviews": 42,
               "lat": -8.0928685,
               "lng": 110.9879821,
-              "placeId": "ChIJ0zXuGKjQey4RmFzJhjCe0Os"
+              "placeId": "ChIJ0zXuGKjQey4RmFzJhjCe0Os",
+              "updatedAt": "2026-11-03"
             }
           ]
         },
@@ -2360,7 +2438,8 @@
               "reviews": 114,
               "lat": -8.2006961,
               "lng": 111.0936438,
-              "placeId": "ChIJi4sIUQDfey4Rwyj4jeKrTqU"
+              "placeId": "ChIJi4sIUQDfey4Rwyj4jeKrTqU",
+              "updatedAt": "2026-11-03"
             },
             {
               "name": "Nusantara Ubed Rental",
@@ -2371,7 +2450,8 @@
               "reviews": 158,
               "lat": -8.2261958,
               "lng": 110.9793002,
-              "placeId": "ChIJ8WxEMSbdey4RXwvt9-wkgNE"
+              "placeId": "ChIJ8WxEMSbdey4RXwvt9-wkgNE",
+              "updatedAt": "2026-11-03"
             },
             {
               "name": "Bilqis Rental Motor & Penginapan",
@@ -2381,7 +2461,8 @@
               "reviews": 51,
               "lat": -8.2073435,
               "lng": 111.0950678,
-              "placeId": "ChIJ6-zb6tVheS4R4GNboB304fE"
+              "placeId": "ChIJ6-zb6tVheS4R4GNboB304fE",
+              "updatedAt": "2026-11-03"
             },
             {
               "name": "Rental Motor Pacitan",
@@ -2391,7 +2472,8 @@
               "reviews": 34,
               "lat": -8.1936643,
               "lng": 111.09335589999999,
-              "placeId": "ChIJn_mf2I5heS4Rra28ICBBEeA"
+              "placeId": "ChIJn_mf2I5heS4Rra28ICBBEeA",
+              "updatedAt": "2026-11-03"
             }
           ]
         },
@@ -2406,7 +2488,8 @@
               "reviews": 70,
               "lat": -8.204881,
               "lng": 111.0967859,
-              "placeId": "ChIJo64bXABheS4RH3AsHcE_Deo"
+              "placeId": "ChIJo64bXABheS4RH3AsHcE_Deo",
+              "updatedAt": "2026-11-03"
             },
             {
               "name": "AHSAN Rent Car",
@@ -2416,7 +2499,8 @@
               "reviews": 18,
               "lat": -8.0937126,
               "lng": 111.20762739999999,
-              "placeId": "ChIJaZzOymhleS4R7GksPhgDSMg"
+              "placeId": "ChIJaZzOymhleS4R7GksPhgDSMg",
+              "updatedAt": "2026-11-03"
             },
             {
               "name": "Rental Mobil ALFAIZ",
@@ -2426,7 +2510,8 @@
               "reviews": 11,
               "lat": -8.2062476,
               "lng": 111.1156778,
-              "placeId": "ChIJzTGlg0JheS4R5Ubsf8yNFdU"
+              "placeId": "ChIJzTGlg0JheS4R5Ubsf8yNFdU",
+              "updatedAt": "2026-11-03"
             },
             {
               "name": "Kumala Rentcar & Agent Travel",
@@ -2436,7 +2521,8 @@
               "reviews": 13,
               "lat": -8.1129675,
               "lng": 111.1497421,
-              "placeId": "ChIJa8JSXL5heS4Raadvzlw5yUw"
+              "placeId": "ChIJa8JSXL5heS4Raadvzlw5yUw",
+              "updatedAt": "2026-11-03"
             }
           ]
         }
@@ -2473,7 +2559,8 @@
         "Isi bensin penuh di kota Pacitan atau SPBU Punung sebelum menuju pantai (lihat menu Pitstop).",
         "Bawa uang tunai; tidak semua tempat menerima pembayaran digital.",
         "Cek prakiraan cuaca dan ombak sebelum berangkat."
-      ]
+      ],
+      "updatedAt": "2026-11-03"
     },
     {
       "id": "kuliner",
@@ -2506,7 +2593,8 @@
       "tips": [
         "Tahu tuna dan ikan goreng paling awet bila dibawa dengan cooler box.",
         "Jam buka tiap toko bisa berubah; hubungi lebih dulu bila ingin memastikan."
-      ]
+      ],
+      "updatedAt": "2026-11-03"
     },
     {
       "id": "dua-hari",
@@ -2559,7 +2647,8 @@
         "Pesan homestay di Watukarung lebih awal saat akhir pekan dan libur panjang (lihat menu Penginapan).",
         "Isi bensin sebelum meninggalkan kota; SPBU di jalur pantai lebih jarang.",
         "Cek prakiraan cuaca dan ombak sebelum berangkat."
-      ]
+      ],
+      "updatedAt": "2026-11-03"
     }
   ],
   "app": {
